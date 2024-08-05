@@ -1,0 +1,232 @@
+:root {
+    --button-text-color: #262D3D;
+    --button-text-color-hover: #ffffff;
+    --button-bg-color: #E1E3E7;
+    --button-bg-color-hover: black;
+    /* --background-image-url: "./img/hm_logo.png"; */
+    --background-image-url: url("https://upload.wikimedia.org/wikipedia/commons/e/e4/HM_Logo_RGB.png");
+
+
+
+}
+
+#background-div {
+    /* background-image: url('https://www.codeocean.net/hm/hm_logo.png'); */
+    background-image: url('https://www.codeocean.net/hm/HM_Logo_rot_RGB.svg');
+    /* background-color: red; */
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#background-div-outer-logo {
+    background-image: url('https://www.codeocean.net/hm/hm_logo.png');
+    background-size: contain;
+    background-position: top left;
+    background-repeat: no-repeat;
+    height: 150;
+    width: 60;
+    margin: 0;
+    padding: 0;
+}
+
+.block .svelte-12cmxck .padded .hide-container {
+    background-image: var(--background-image-url);
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border-color: black;
+}
+
+.image-container {
+    background-image: var(--background-image-url);
+    text-align: center;
+    /* Resmi ortalamak için */
+
+}
+
+#sil {
+    background-image: var(--background-image-url);
+    /* background-color: red; */
+    text-align: center;
+    /* Resmi ortalamak için */
+    height: 100px;
+    width: 100px;
+    /* Yukarıdan boşluk eklemek için */
+}
+
+.hm-logo {
+    width: 300px;
+    /* Genişliği 300px olarak ayarlayın */
+    height: auto;
+    /* Oranını koruyarak yüksekliği ayarlayın */
+}
+
+#hm-logo {
+    width: 300px;
+    /* Genişliği 300px olarak ayarlayın */
+    height: 200px;
+    /* Yüksekliği 200px olarak ayarlayın */
+    /* Resmin boyutlandırılması sırasında kırpmayı sağlayın */
+}
+
+/* #component-15 {
+    color: #000;
+}
+
+#component-15:hover {
+    color: #ffffff;
+} */
+
+/* .gradio-container {
+    background: url(https://mediapool.hm.edu/media/mucdai/keyvisuals_1/mucdai_keyvisual_15_hero_image_m.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+
+/*konuşma balonlarının hepsinin arka planı*/
+/* .flex-wrap .svelte-x4qvqz {
+    background-color: blue;
+    border: none;
+} */
+
+/* .md .svelte-8tpqd2 .chatbot .prose {
+    background-color: red;
+}
+
+.md .svelte-8tpqd2 .chatbot .prose {
+    background-color: green;
+} */
+
+/* Kullanıcı mesaj balonlarının arka plan rengini beyaz yap */
+.bubble-wrap .message-wrap .message.user {
+    background-color: white;
+    border: none;
+}
+
+/* Bot mesaj balonlarının arka plan rengini varsayılan arka plan renginde bırak */
+.bubble-wrap .message-wrap .message.bot {
+    background-color: var(--block-background-color);
+    /* Varsayılan arka plan rengi */
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+/* Cevap yüklenirken gösterilen metin için stil */
+.bubble-wrap .message-wrap .message.loading {
+    background-color: var(--block-background-color);
+    color: red;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.bubble-wrap .message {
+    background-color: var(--block-background-color);
+    color: #333333;
+}
+
+/* .md.svelte-8tpqd2.chatbot.prose {
+    background-color: rgba(255, 255, 255, 0.8);
+} */
+
+.gradio-container .bubble-wrap .message-wrap .chat-message.user {
+    background-color: rgba(173, 216, 230, 0.8);
+    /* Kullanıcı mesajları için arka plan rengi */
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.gradio-container .bubble-wrap .message-wrap .chat-message.bot {
+    background-color: rgba(240, 255, 240, 0.8);
+    /* Bot mesajları için arka plan rengi */
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+body {
+    background-image: url('https://www.codeocean.net/hm/hm_logo.png');
+    background-size: contain;
+    background-position: top left;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    height: 150;
+    width: 60;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+/* Örnek CSS stil dosyası */
+.md.svelte-8tpqd2.chatbot.prose {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    background-color: #3498db;
+}
+
+#markdown {
+    font-size: 16px;
+    color: red;
+}
+
+
+
+#component-18 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    max-width: 2000px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+}
+
+.markdown {
+    font-size: 16px;
+    color: red;
+}
+
+.gradio-container .exercise-item:hover {
+    color: #3498db;
+}
+
+.gallery-item {
+    background-color: var(--button-bg-color);
+    border: none;
+    color: var(--button-text-color);
+    padding: 5px;
+    margin: 5px;
+    transition: background-color 0.3s, color 0.3s;
+
+}
+
+.gallery-item:hover {
+    background-color: var(--button-bg-color-hover);
+    color: var(--button-text-color-hover);
+}
+
+/*undo button*/
+#component-5,
+/*clear button*/
+#component-6 {
+    background-color: var(--button-bg-color);
+    border: none;
+    color: var(--button-text-color);
+}
+
+/*undo button*/
+#component-5 :hover,
+/*clear button*/
+#component-6 :hover {
+    border: none;
+    background-color: var(--button-bg-color-hover);
+    color: var(--button-text-color-hover);
+}

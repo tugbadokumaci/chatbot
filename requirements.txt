@@ -1,0 +1,4 @@
+gradio==4.40.0
+llama_index==0.10.59
+openai==1.37.2
+watchdog==4.0.1

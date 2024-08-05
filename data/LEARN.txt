@@ -1,0 +1,315 @@
+###NEO – Campus der Zukunft | Bereich LEARN https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse0 
+
+Das fakultätsübergreifende Projekt NEO – Campus der Zukunft (08/2021 – 12/2025) trägt an der Hochschule München zu einem lebendigen hybriden Campus bei, an welchem erfolgreiches Lernen und soziale Kooperation in Verbindung von Präsenz- und Online-Aktivitäten stattfinden.
+Im Teilprojekt NEO.Skills werden hierzu Selbstlerneinheiten zu den Bereichen LIVE, LEARN, CREATE, ENGAGE und DIGITAL WORLD implementiert.
+Du befindest dich aktuell im Bereich LEARN. 
+Die hierin enthaltenen Selbstlerneinheiten sind dem Maßnahmenkomplex „M1: Förderung der digitalen Studierfähigkeit“ zugeordnet, Teil des Arbeitspakets „AP 1.1 Online-Kurs Selbstkompetenz“ und beinhalten folgende Unterbereiche:
+Was du in dieser Selbstlerneinheit für dich rausholen kannst
+Entdecke die Lerntypentheorie, optimiere deine Lernstrategien und nutze hierbei digitale Tools. Beherrsche Office Basics und spezifische digitale Tools. Verbessere deine Informationskompetenz in den Selbstlernbereichen "Suchen & Finden", "Bewerten, Interpretieren & Analysieren" sowie "Organisieren & Verwalten". Lerne wissenschaftliche Literatur effektiv zu finden, zu nutzen und zu organisieren.
+Disclaimer
+In dieser Selbstlerneinheit wurden weiterführende Links eingepflegt, die zu externen Seiten führen, auf welchen auch Werbung und Videos von Drittanbietern präsentiert werden könnten. Wir möchten darauf hinweisen, dass wir nicht für die Inhalte, Genauigkeit oder Legalität der auf diesen externen Websites auftauchenden weiterführenden Links verantwortlich sind. Die Nutzung dieser externen Links erfolgt auf eigene Verantwortung. Wir empfehlen, die Datenschutzrichtlinien und Nutzungsbedingungen der jeweiligen Drittanbieter zu überprüfen und weiterführende Links auf den von uns zum Zwecke des Lernens beworbenen Seiten nur dann wahrzunehmen, wenn du sicher bist, dass du dieser Quelle vertrauen kannst.
+Selbstlerneinheit Selbstreguliertes Lernen
+Herzlich willkommen zur Selbstlerneinheit zum Thema „Selbstreguliertes Lernen"!
+Nach Absolvierung der Selbstlerneinheit 
+	•	weißt du, was es mit der Lerntypentheorie auf sich hat,
+	•	kannst Lernstrategien und -prozesse an deine individuellen Bedarfe anpassen
+	•	hast digitale tools parat, die dir bei all dem zur Seite stehen
+	•	hast deine Nutzungskompetenzen so erweitert, dass du Office Basics beherrscht und digitale HM-spezifische Tools sowie fachspezifische Tools kennst
+	•	hast deine Fähigkeiten im Bereich Informationskompetenz in den Bereichen "Suchen & Finden", "Bewerten, Interpretieren & Analysieren" und "Organisieren & Verwalten" verbessert und 
+	•	bist nach der Selbstlerneinheit sicher darin, dein Lernen strukturiert, systematisch und mit Hilfe geeigneter digitaler Tools selbst in die Hand zu nehmen.
+
+Einleitend wird nun der Begriff des "Selbstregulierten Lernens" definiert.
+
+Begriffliche Klärung "Selbstreguliertes Lernen"
+"Hinsichtlich der funktionalen Bestimmung selbstregulierten Lernens herrscht in der Forschungsliteratur weitgehend Einigkeit: Lernende, die ihr eigenes Lernen regulieren, sind in der Lage, sich selbstständig Lernziele zu setzen, dem Inhalt und Ziel angemessene Techniken und Strategien auszuwählen und sie auch einzusetzen. Ferner halten sie ihre Motivation aufrecht, bewerten die Zielerreichung während und nach Abschluss des Lernprozesses und korrigieren — wenn notwendig — die Lernstrategie (Simons, 1992). Die Selbstregulation des Lernens beruht demnach auf einem flexibel einsetzbaren Repertoire von Strategien zur Wissensaufnahme und Wissensverarbeitung sowie zur Überwachung der am Lernen beteiligten Prozesse. Ergänzt werden diese Formen der Informationsverarbeitung durch motivationale Prozesse wie beispielsweise Techniken der Selbstmotivierung und der realistischen Zielsetzung. [ ... ] Beim selbstregulierten Lernen handelt es sich nicht um eine Fähigkeit, die — einmal erworben — in allen potenziellen Situationen und bezogen auf verschiedene Inhaltsbereiche zur Anwendung kommt und dabei notwendigerweise zu guten Leistungen führt. Selbstregulation ist vielmehr ein vor dem Hintergrund der jeweiligen Ziele, Anforderungen und Voraussetzungen optimaler Zustand. Im Unterschied zu fachbezogenen, kognitiven Kompetenzen beruht selbstreguliertes Lernen auf einer Handlungskompetenz, bei der die insgesamt notwendigen und/oder verfügbaren kognitiven, motivationalen und sozialen Voraussetzungen für erfolgreiches Handeln und Leisten zusammenwirken (vgl. Weinert, 1999)." (https://link.springer.com/chapter/10.1007/978-3-322-83412-6_8).
+Sieh dir bitte folgendes Video zum Drei-Schichten-Modell des Selbstregulierten Lernens nach Monique Boekaerts (1999) an:Mache nun bitte folgendes Drag and Drop-Zuordnungsquiz, um die eben im Video präsentierten Inhalte zu manifestieren.
+
+###Selbstreguliertes Lernen 1: Lerntypen – eine Theorie auf dem Prüfstand https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse1 
+In diesem Abschnitt soll ein grundlegendes theoretisches Hintergrundwissen zum Thema "Lerntypen" vermittelt und der Frage nachgegangen werden, an welchen Stellen die nahezu als Allgemeinplatz geltende Lerntypen-Theorie nach https://www.google.de/books/edition/Denken_Lernen_Vergessen/gH_zRgAACAAJ?hl=de kritisch zu hinterfragen ist.
+Außerdem wirst du einen alternativen Lernstiltypenansatz kennenlernen, der zwar aus wissenschaftlicher Sicht keinen Anspruch auf Generalisierbarkeit erheben, dir aber dennoch Aufschluss darüber geben kann, wie du deine Lernstrategien und -prozesse idealerweise gestalten kannst.
+Sieh dir nun einleitend folgendes Video von Daniel Willingham an (Dauer: 6:54 Minuten).
+Er ist Professor am Department for Psychology an der University of Virginia. Im Video erklärt er gestützt von Forschungsergebnissen anschaulich, warum die Theorie von Lernstilen empirisch nicht haltbar ist.
+Bitte lies dir die ersten knapp 6 Seiten aus u.s. Artikel durch (bis 4.2; Lesedauer ca. 8 Minuten). 
+Du erfährst, warum eine Förderung der (individuellen) Lernleistung durch die Berücksichtigung unterschiedlicher „Wahrnehmungskanäle“ aus pädagogischer Sicht problematisch ist und welche logischen Fehler dieses Konstrukt beinhaltet. Für eine tiefere Auseinandersetzung kannst du selbstverständlich auch den gesamten Artikel lesen.
+https://leopard.tu-braunschweig.de/receive/dbbs_mods_00065984
+Gerade vor dem Hintergrund der Digitalisierung und den Entwicklungen durch die Corona-Pandemie, welche in die Gegenwart nachhallen, ist Lehren und Lernen heute unabdingbar mit dem Einsatz digitaler Medien verknüpft. Nicht nur deshalb gilt es, die Wirkungen und Wirksamkeit von digitalen Medien im Bildungsprozess zu untersuchen. Die Medienwirkungsforschung und die Lernforschung mit digitalen Medien wird auch als TEL-Forschung (Technology-Enhanced Learning) bezeichnet (https://link.springer.com/article/10.1007/s11618-021-01047-y).
+Lies dir in diesem Zusammenhang bitte u.s. Teilkapitel aus dem Studienbrief von Prof. Dr. Patricia Arnold für den M.A. Berufspädagogik der Hamburger Fernhochschule durch (Lesedauer ca. 7 Minuten).
+
+Nach der Lektüre hast du einen Überblick über den Stand der Forschung zu Wirkungen und Wirksamkeit digitaler Medien in Bildungsprozessen. Kap. 4.1 stellt dabei die Medienwirkungsforschung zu digitalen Medien in Lehr- und Lernsituationen vor, benennt aber auch gängige Kritik an ihrem Vorgehen und der Reichweite ihrer Ergebnisse. Kap. 4.2 stellt – unter Rückgriff auf zwei wesentliche Theorien – nach dieser kritischen Rahmung wesentliche kognitionspsychologische Erkenntnisse aus diesem Forschungsansatz vor: Die Theorie der kognitiven Belastung (Sweller et al., 1998) und die Kognitive Theorie Multimedialen Lernens (Mayer, 2009). Die Konzepte der Multicodierung und Multimodalität als Präzisierungen des häufig plakativ verwendeten Multimedia-Begriffs werden präsentiert (Kap. 4.2.1). Die in diesem Zusammenhang häufig angeführte Unterscheidung in auditive, visuelle, und haptische Lerntypen wird als Mythos der Lernforschung identifiziert (Kap. 4.2.2). Schlussendlich werden aus den existierenden Forschungsergebnissen Gestaltungshinweise für digitale Medien in Lehr- und Lernsituationen abgeleitet. Nach der aufmerksamen Lektüre dieses Kapitels kannst du:
+
+	•	Ergebnisse der Medienwirkungsforschung zu digitalen Medien in Lernsituationen benennen und hinsichtlich ihres Entstehungszusammenhangs und ihrer Reichweite einordnen,
+	•	zum häufig anzutreffenden Konzept verschiedener Lerntypen (auditiv, visuell, haptisch) unter Hinweis auf empirische Studien kritisch Stellung nehmen sowie
+	•	erläutern, wie digitale Medien gestaltet werden sollten, um lernförderlich zu wirken (insbesondere bezogen auf Text-Bild-Kombinationen, und den Einsatz von Audio und Video-Elementen).
+
+Bitte beantworte nun noch folgende Übungsaufgaben:
+zu Unterkapitel 4.1): Zeige Kritikpunkte bzw. Grenzen der an der Medienwirkungsforschung orientierten Lernforschung zum Einsatz digitaler Medien auf.
+zu Unterkapitel 4.2): Nenne Beispiele für konkrete Gestaltungsempfehlungen zu digitalen Lernmedien und erläutere diese mit Hilfe von kognitionspsychologischen Erkenntnissen.
+Sieh dir nun bitte die untenstehende Theorie von David A. Kolb als alternativen Lerntypenansatz an.
+
+David A. Kolb
+Lernphasen nach Kolb (1984): 
+Gemäß der Theorie von David A. Kolb (1984) können vier verschiedene Lernphasen unterschieden werden:
+	•	Konkrete Erfahrung,
+	•	reflektierendes Beobachten,
+	•	abstrakte Begriffsbildung und
+	•	aktives Experimentieren.
+
+Ein Lernprozess durchläuft diese vier Phasen in einem sogenannten Lernkreislauf. So werden zum Beispiel zuerst neue, konkrete Erfahrungen gemacht, die danach durch reflektierendes Beobachten genauer untersucht werden. Dies führt im nächsten Schritt zur abstrakten Begriffsbildung, wobei eventuell eine Theorie gebildet wird. Der neu gebildete Begriff oder die Theorie werden im aktiven Experimentieren erprobt und angewendet. Dies wiederum kann zu neuen Erfahrungen führen, womit der Lernkreislauf geschlossen ist. In den wenigsten Fällen jedoch führt ein Lernprozess über sämtliche vier Phasen, meistens werden nur Teile des Lernkreislaufes durchschritten (https://www.researchgate.net/publication/235701029_Experiential_Learning_Experience_As_The_Source_Of_Learning_And_Development).
+Lernstiltypen
+Kolb leitet aus diesem Lernkreislauf vier Lernstiltypen ab (mit Klick auf die blau hinterlegten Schlagworte bekommt ihr jeweils Informationen zu den Lernstiltypen):
+	•	Assimilierer (https://moodle.hm.edu/pluginfile.php/1514028/mod_label/intro/Kolb_Denker_innen.pdf),
+	•	Konvergierer (https://moodle.hm.edu/pluginfile.php/1514028/mod_label/intro/Kolb_Entscheider_innen.pdf),
+	•	Divergierer (https://moodle.hm.edu/pluginfile.php/1514028/mod_label/intro/Kolb_Entdecker_innen.pdf) und
+	•	Akkomodierer (https://moodle.hm.edu/pluginfile.php/1514028/mod_label/intro/Kolb_Macher_innen.pdf).
+Jeder dieser Lernstiltypen wird von zwei Lernphasen geprägt: Assimilierer bevorzugen beim Lernen reflektierendes Beobachten und abstrakte Begriffsbildung, das Lernverhalten von Konvergierern ist von abstrakter Begriffsbildung und aktivem Experimentieren geprägt. Konkrete Erfahrung und reflektierendes Beobachten sind die Stärken von Divergierern. Akkomodierer lernen am Besten durch aktives Experimentieren und konkrete Erfahrung.
+Der Lernstil einer Person ist dabei nicht statisch, er kann sich im Lauf der Zeit verändern.
+Kolb weist darauf hin, dass durch bewusstes Anwenden einer bestimmten Lernphase die Fähigkeit, durch diese Lernphase zu lernen, verbessert werden kann. Anders gesagt, der Lernstil verschiebt sich in Richtung dieser Lernphase. Dies ist insofern anstrebenswert, da das Durchlaufen mehrerer Lernphasen den Lernprozess aufwertet.
+Rad des Problemlösens
+In der Abbildung, welche dir in untenstehendem Drag-and-Drop-Zuordnungsquiz gezeigt wird, siehst du grün außen das Rad des Problemlösens nach Kolb. Lernen im Sinne von Problemlösung folgt diesem Kreis – je nach Lernstil liegen die Stärken in einem anderen Problemlösungsschritt. 
+Bitte mache nun folgenden Test:
+Mache nun bitte zum Abschluss dieses Teilbereichs folgenden Online-Test nach Stangl/Taller. Mit diesem Screening-Testverfahren soll das grassierende und erstaunlich weit verbreitete Modell der Lerntypentheorie einer Relativierung unterzogen werden.
+Der HALB-Test besteht aus zehn Fragen mit jeweils vier Alternativen wobei bei jeder Frage zwei Antwortalternativen gewählt werden müssen, um neben der bei jeder Frage am nächsten liegenden Wahrnehmungs- und Verarbeitungsform noch eine weitere zu evozieren. 
+###Selbstreguliertes Lernen 2: Lernstrategien und -prozesseDefinition https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse2 
+		
+		"Lernen ist ein absichtlicher (intentionales Lernen), beiläufiger (inzidentelles und implizites Lernen), individueller oder kollektiver Erwerb von geistigen, körperlichen und sozialen Kenntnissen und Fertigkeiten. Aus lernpsychologischer Sicht wird Lernen als ein Prozess der relativ stabilen Veränderung des Verhaltens, Denkens oder Fühlens, als verarbeitete Wahrnehmung der Umwelt oder Bewusstwerdung eigener Regungen, aufgefasst (Qualifikation). Insoweit ist Lernen ein individueller, autopoietischer und aktiver Prozess, bei welchem Wissen, Emotionen, Fertigkeiten, aber auch Verhalten, Einstellungen und Werte durch Erfahrungen verändert werden. Lernen ist damit ein Prozess, der individuell und erfahrungsbezogen konstruiert. Hierbei agiert die Person aktiv, indem sie ihre eigene Erfahrungs- und Erlebenswelt in den Lernprozess einbringt und dabei individuell vorhandenes Wissen und Können anpasst. Anders formuliert werden Informationen zu eigenem Wissen umgewandelt, d.h. in bestehende Wissensstrukturen eingegliedert. Erfahrungsbezug ist demnach zentral für die Verankerung und somit Bedeutung der Lerninhalte. Ferner ist für den nachhaltigen Erfolg des Lernens die Haltung der Person entscheidend." (https://wirtschaftslexikon.gabler.de/definition/lernen-41169)
+		
+		
+		
+		
+		Nach Absolvierung dieses Teilbereichs, weißt du, welche Faktoren für "gutes" Lernen eine Rolle spielen, kennst den Unterschied zwischen kognitiven, metakognitiven und ressourcenorientierten Lernstrategien und hast 13 wissenschaftlich fundierte Tipps an der Hand, die dir als Grundpfeiler für effektives Lernen dienen. Lies dir bitte einleitend folgenden Artikel aus dem Blog des Bildungswerks der Niedersächsischen Wirtschaft durch (Lesedauer ca. 5 Minuten). 
+		Du erfährst hier
+		
+		warum das menschliche Gehirn besser in der Lage ist "gut" zu lernen, wenn neue Informationen individuelle und emotionale Gesichtspunkten beinhalten, 
+		wie Lernhemmungen entstehen, 
+		wie nachhaltiges und "gehirngerechtes" Lernen funktionieren kann und 
+		welche Rolle digitale Lehrmethoden dabei spielen können:
+		
+		
+		https://www.bnw.de/service/blog/karriere/neue-lernmethoden-und-lernstrategien-lernen-lernen-in-der-digitalen-arbeitswelt/
+		Für ein wissenschaftliches Grundverständnis hinsichtlich Lernstrategien, sie dir nun bitte folgendes Video an. Im Video wird kurz und bündig der Unterschied zwischen kognitiven, metakognitiven und ressourcenorientierten Lernstrategien vorgestellt:
+		
+		Sie dir nun bitte folgendes Video (Dauer: 5:07 Minuten). 
+		Du erhältst 13 wissenschaftlich fundierte Tipps, die dir als Grundpfeiler für effektives Lernen dienen können:
+			◦	Falls du mehr zu der im Video erwähnten Pomodoro-Technik erfahren willst, sieht dir den Teilbereich "Selbstmotivation 3: (Digitale) Tools zur (Selbst-)Motivation" aus dem NEO-Kurs "LIVE" an.
+###Selbstreguliertes Lernen 3: (Digitale) Tools https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse3 
+		Lies dir zur Aneignung dieser Methode bitte folgenden Artikel von Kontextlab durch (Lesedauer: ca. 9 Minuten). Kontextlab entwickelt tools, publiziert Formate und begleitet Prozesse um Kontextwissen sichtbar und erfahrbar zu machen.
+		https://www.kontextlab.com/chunk-it-wie-wir-besser-lernen-und-verstehen/
+		Folgende Schritt-für-Schritt-Anleitung ist sowohl für Lehrpersonen in Bezug auf den Aufbau von Lehrveranstaltungen als auch für Studierende hinsichtlich der Strukturierung einer Abschlussarbeit relevant. Sie kann helfen eine adäquate Stoffübersicht, -eingrenzung und -strukturierung vorzunehmen:
+		Chunking von Informationen
+		Die Zerlegung von Informationen ist besonders wichtig bei der Gestaltung von selbstgesteuerten Lernprozessen. Der Inhalt muss durch Chunking logisch und schrittweise organisiert werden. Chunking eignet sich nicht nur für typisches lineares Lehren und Lernen, sondern funktioniert auch bei nicht-linearen Ansätzen, z. B. wenn Lernende die Reihenfolge selbst wählen, in der sie verschiedene Themen behandeln.
+		Ein wichtiger Aspekt des Chunking ist, dass es sich bei den Chunks um konzeptionell verwandte Informationen handelt. Inhalte, die in einem konzeptionellen Zusammenhang stehen, sind aussagekräftiger als willkürlich angeordnete Informationen.
+		Wie man Inhalte chunked
+		Schritt 1: Beginne auf der höchsten Ebene.
+		Verwende bei der Festlegung der Inhaltshierarchie eines Kurses bzw. Lerngebiets eine Chunking-Strategie. Leg fest, wie die Module, Lektionen und Themen in einer logischen und progressiven Abfolge organisiert werden sollen. Beginne mit großen Blöcken konzeptionell verwandter Inhalte und verwende diese als Module bzw. Überbegriffe. 
+		Schritt 2: Unterteile Module in Lektionen und Lektionen in Themen
+		Unterteile Module in kleinere, zusammenhängende Abschnitte, die dann zu deinen Lektionen werden. Fahre mit diesem Prozess fort, bis der Inhalt bis auf die Themenebene heruntergebrochen ist. Wenn du dich mit dem Inhalt besser auskennst, kannst du die interne Struktur feinabstimmen.
+		Schritt 3: Unterteile auf Screen-Ebene.
+		Wenn du eine solide Modul-Lektion-Themen-Struktur hast, organisiere den Inhalt so, dass jede visuelle Darstellung/Screen aus einem Stück zusammengehöriger Informationen besteht. Je nachdem, wie du die Inhalte gestaltest, kann dies auf der Ebene des Themas, auf Ebene der detaillierten Lernziele oder der Konzeptebene geschehen. Vermeide es grundsätzlich, mehrere Themen, Lernziele oder Konzepte auf einmal einzuführen
+		Schritt 4: Überprüfe dein Arbeitsgedächtnis.
+		Denke während des gesamten Prozesses an dein Arbeitsgedächtnis. Müssen wirklich alle Inhalte, die du vor dir hast, aufgenommen werden? Wenn nicht, streiche überflüssige Inhalte. Weniger ist mehr.
+		Digitales tool zum Anwenden der Chunking Methode: Trello
+		Ein gutes tool um die Chunking Methode digital anzuwenden ist Trello.
+		
+		Was genau kannst du mit Trello anfangen? 
+		Die kurze Antwort: Ziemlich viel. Die ausführliche: In erster Linie dient die Plattform dem Auflisten, Einteilen und Bearbeiten von Aufgaben. Stellen Sie sich Trello wie eine große Sammlung von Post-Its vor, die nach Arbeitsschritten, Datum und Priorität angeordnet sind. Die grobe Einteilung von Trello lautet Board > Listen > Karten und auch genau in der Reihenfolge. Ein Board stellt den gesamten Arbeitsbereich dar, ähnlich einer Tabelle in Excel oder einem Dokument in Word.
+		Auf einem Board befinden sich mehrere Listen, die in der Regel nach Arbeitsschritten (z.B. „Neu“, „In Bearbeitung“, „Fertiggestellt“ oder „Archiv“) eingeteilt sind. Jede Liste beinhaltet mehrere Karten, von denen jede einzelne eine Aufgabe bzw. ein To-Do darstellt. Ist eine Karte fertig bearbeitet, kann diese per Drag and Drop in die nächste Liste (z.B. von „In Bearbeitung“ zu „Fertiggestellt“) gezogen werden. Mit diesem Prinzip lassen sich auch komplexe Projekte in einzelne Schritte herunterbrechen und Stück für Stück bearbeiten, was dem Leitgedanken der Chunking Methode entspricht.
+		Was sind Arbeitsbereiche in Trello?
+		Ein Arbeitsbereich steht hierarchisch über dem Board. Jedes Board ist einem Arbeitsbereich zugeordnet. Pro Arbeitsbereich können bis zu zehn Boards erstellt werden. Der Arbeitsbereich ist die größtmögliche Organisationseinheit bei Trello und gibt dir einen Überblick über deine (falls vorhanden) verschiedenen Boards
+		Im Freetarif erhältst du die wichtigsten Features der Plattform. Das heißt: Unendlich viele Karten und Mitglieder sowie bis zu zehn Boards pro Arbeitsbereich. 
+		Hier gelangst du zur Anmeldung für die kostenlose Version: https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D%26ssoVerified%3D%26createMember%3Dtrue%26jiraInviteLink%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D
+		Um die Funktionen von Trello kennenzulernen, kannst du folgendes Tutorial durchlaufen: 
+		Trello 1x1: Trello-Boards und -Karten | Trello
+		"Mind-Maps ahmen Denkprozesse nach
+		Das Zeichnen einer Mind-Map erfordert das ganze Gehirn, einen synergetischen Denkansatz, der die explosive Natur der Neuronen widerspiegelt, die während des Denkprozesses das Gehirn hochaktiv nach neuen Verbindungen absuchen. Man darf sich das wie einen gigantischen Flipper vorstellen, in dem Milliarden Silberkugeln mit Lichtgeschwindigkeit umhersausen.
+		Ihr Gehirn denkt nicht linear oder sequenziell wie ein Computer. Es denkt multilateral: radial. Bei Mind-Maps wachsen die Äste nach außen und verzweigen sich, was Sie dazu ermutigt, aus jedem Gedanken, den Sie anfügen, weitere Ideen zu ziehen - genau wie Ihr Gehirn es tut. Weil in einer Mind-Map die Ideen miteinander verbunden sind, tut sich Ihr Gehirn leichter, über Assoziationen ein tieferes Verständnis zu erlangen und kreative Gedankensprünge zu machen." (Buzan 2013)
+		Um nun im nächsten Schritt zu erfahren, was Mind Maps zu leisten im Stande sind und wie man sie idealerweise anlegen sollte, sieh dir nun bitte folgendes Video bis Minute 7:13 an:
+		
+		Ausgewählte digitale Tools zum Anlegen von Mind Maps
+		
+		Digitales Tool 1: Miro
+		Mit dem kostenlosen Programm „Miro“ nutzt du die gleichnamige Online-Plattform, um auf einem Whiteboard gemeinsam im Team an Ideen oder Projekten zu arbeiten. Diese Online-Whiteboards eignen sich sehr gut fürs Brainstorming, zur Visualisierung oder Planung beim Projektmanagement. Du kannst auf den Boards schreiben, mit anderen Teammitgliedern diskutieren, Verbindungen herstellen und Notizzettel pinnen. Auf den virtuellen Whiteboards von „Miro“ stehen dir zudem Zeichentools, Emojis und Icons zur Verfügung. Außerdem hast du die Möglichkeit, PDFs oder Bilder hochzuladen und auf dem Board zu platzieren. 
+		Praktisch: Um den Einstieg zu erleichtern, stehen verschiedene Templates zur Auswahl, etwa für Mindmaps, Kanban-Boards, Flowcharts und Roadmaps. Hinweis: In der kostenlosen Free-Version von „Miro“ kannst du drei Boards gleichzeitig bearbeiten und beliebig viele anonyme Board-Betrachter einladen. Um Boards gemeinsam mit anderen online zu bearbeiten, ist ein kostenpflichtiges Abo erforderlich.
+		Download der Free-Version ist unter diesem Link möglich.
+		Digitales Tool 2: FreeplaneMit dem kostenlose Open-Source-Programm Freeplane steht ein klassisches Mind Mapping-Programm zur Sammlung, Organisation und Aufbereitung von Ideen und die Erledigung von Aufgaben bei der Arbeit, in der Uni und zu Hause bereit. Dabei erstellst du eine Karte aus miteinander verknüpften Knoten, die den Denkprozess und die miteinander assoziierten Punkte verdeutlicht. Alle Knotenpunkte können neben dem einfachen Textfeld auch Grafiken, Hyperlinks, Formeln, Tabellen und vieles mehr enthalten. Die Verknüpfung der einzelnen Knoten ist auf verschiedene grafische Varianten möglich.
+		Für die Knoten selbst gibt es zahlreiche Typen, die sich mit Attributen klassifizieren und ordnen lassen. Als besondere Funktion von Freeplane gilt die völlig freie Gestaltung der Map. Knoten können auch frei und ohne Verbindung zur restlichen Struktur angelegt werden. Um die Ideen zu schützen kann man die gesamte Map oder auch nur einzelne Knotenpunkte sicher verschlüsseln.
+		
+		Außerdem bietet Freeplane Inline- und Dialogeditoren, ein objektorientiertes Hauptmenü, Kontextmenüs, eine mehrsprachige Übersetzung der Programmoberfläche, Rechtschreibprüfung, Drag & Drop-Funktionalität, Hotkeys, und die Möglichkeit der Stapelausführung.
+		Auf der Herstellerseite finden sich außerdem zahlreiche Erweiterungen in Form von Skripten, Formeln und Add-Ons, sowie ein https://docs.freeplane.org/home.html.
+		Download der Free-Version ist unter diesem Link möglich.
+		Digitales Tool 3: yEd
+		YEd Live ist eine universelle Mindmapping Software für mehrere Dokumente. Es handelt sich um eine plattformübergreifende Anwendung, die kompatibel mit Mac OS, Windows und Linux ist. Diese Mindmapping-Software fördert die Produktivität, da die Erstellung einer Mindmap in unterschiedlichen Diagrammen möglich ist. Du kannst auch Raster- sowie Vektorgrafiken verwenden. Die fertigen Mindmaps lassen sich in unterschiedlichen Dateien (PDF, PNG, HTML und beispielsweise JPEG) exportieren. Auch ein Import von Dateien, beispielsweise aus Microsoft Office, ist möglich.
+		
+		mannigfaltige Diagrammarten
+		kompatibel mit Mac OS, Windows und Linux
+		Datenaustausch möglich
+		Export in PDF, GIF, JPEG, PNG, BMP, HTML, PNG und XML
+		
+		YEd lässt sich auf folgender Seite für Mac, Windows und Linux herunterladen:
+		
+		yEd - Download (yworks.com)
+		
+		Scrolle auf der Seite nach unten bis diese drei Icons erscheinen und wähle dein gewünschtes Betriebssystem aus:
+		
+		Die Loci-Methode (lateinisch locus „Ort“, „Platz“) ist eine mnemotechnische Lernmethode https://www.mevaleo.de/info/lernmethoden/mnemotechnik/#:~:text=Die%20Mnemotechnik%20ist%20eine%20Lernmethode,Reimen%20oder%20Bildern%20besser%20einzupr%C3%A4gen.und Assoziationstechnik. Sie ist leicht zu erlernen und wird aufgrund ihrer Effektivität von praktisch allen Gedächtnissportler:innen verwendet. Diese Methode kann auch für umfangreichen Lernstoff genutzt werden, da sich Bilder besser ins Gedächtnis einprägen als bloße Informationen wie Text oder Zahlen; zudem profitiert sie von der assoziativen Funktionsweise des menschlichen Gehirns.Sieh dir nun bitte folgendes Video an (durch Klick auf das Bild wirst du zum Video weitergeleitet). 
+		Hier wird dir anschaulich anhand eines konkreten Lernbeispiels erklärt, wie die Loki-Methode funktioniert und umgesetzt wird:
+		Ausgewählte digitale Tools zur Umsetzung der Loki-Methode
+		
+		Digitales Tool für iOS: Mnemo Route
+		Die App kostet einmalig 5,99 € und umfasst:
+		
+		Erstellung einer beliebigen Anzahl von Routen und Routenpunkten
+		Speicherung in separaten Kategorien (z.B. Körperroute, Urlaub, Gebäude, etc.)
+		Routenpunktinformationen: Bild (Auswahl aus Kamera, Fotoalbum oder integrierter Bildsuche im Web), Titel und Audio
+		Die Routen können nach der Erstellung beliebig neu geordnet werden (Änderung der Reihenfolge)
+		Die Routen können nach der Erstellung kopiert und frei kombiniert werden (eine Route an eine andere Route anhängen)
+		Automatischer Abspielmodus: Optionale Sprachsynthese der Routenpunktnummer und / oder des Routenpunkttitels, kombinierbar mit eigenen aufgenommenen Audioinformationen
+		Datensicherung mit Dropbox
+		Link zum Download: Mnemo Route im App Store (apple.com)
+		Digitales Tool für Android: Mentaler Palast
+		Auch diese App bedient sich den Grundprinzipien der Loki-Methode. 
+		
+		Der Download für Android ist kostenfrei unter folgendem Link möglich: Mentaler Palast – Apps bei Google Play		
+###Selbstlerneinheit Nutzungskompetenzen https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse4 
+		Im folgenden Bereich "Nutzungskompentenzen" verweisen wir auf Tutorials, welche wir auf Grund des Feedbacks von Studierenden aufgenommen haben.      
+		
+		
+###Nutzungskompetenzen 1: Office Basics https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse5 
+		Auf der E-Learning-Plattform Udemy gibt es einen Einsteigerkurs für Excel. Der Kurs ist für Anfänger von Excel gedacht, d. h. es sind keine Vorkenntnisse notwendig (außer Windows allgemein und der Umgang mit der Maus).
+		Der Kurs vermittelt in 8 Sections (siehe Abbildung unten) die Dateneingabe in Excel, die Gestaltung von Zahlen und Text wird dargestellt. Schwerpunkt sind Rechenoperationen, also Formel-Erstellung mit den Grundrechenarten. Dazu wird der Umgang mit grundlegenden Funktionen wie Summe oder Mittelwert gezeigt. Zudem wird das nachträgliche Verändern der Tabellenstruktur durch Einfügen von Spalten und Zeilen gezeigt. Schlusspunkt ist der Ausdruck von Tabellen.
+		Bitte registriere dich nun auf der Plattform und absolviere folgenden Kurs, indem du diesem Link folgst: 
+		Free Excel Tutorial - Excel für Anfänger | Udemy
+		
+		
+		Ebenfalls auf der E-Learning-Plattform Udemy gibt es auch einen Einsteigerkurs für Word. Der Kurs ist in 8 lectures unterteilt (siehe Abbildung unten) und dauert insgesamt 41 Minuten.
+		Ebenfalls auf der E-Learning-Plattform Udemy gibt es auch einen Einsteigerkurs für Word. Der Kurs ist in 8 lectures unterteilt (siehe Abbildung unten) und dauert insgesamt 41 Minuten.
+		Auch für Powerpoint gibt es auf der E-Learning-Plattform Udemy einen Einsteigerkurs. Der Kurs ist in 5 Sektionen unterteilt (siehe Abbildung unten) und dauert insgesamt 1 Stunde und 9 Minuten.
+		Ziel dieses Kurses ist es, dass du den grundlegenden Umgang mit Power-Point erlernst. Der Kurs ist definitiv kein Profikurs. 
+		Du lernst hier den Umgang mit einem Programm, welches mehr Potential hat, als die meisten nutzen. Einem Programm, welches eine echte Unterstützung sein kann. Nach dem Kurs kannst du PowerPoint grundlegend bedienen und bist in der Lage, ansprechende Präsentationen zu erstellen.
+		
+		Da du bereits bei Udemy registriert bist, kannst du einfach auf folgenden Link klicken um zum Kurs zu gelangen:
+		
+		Power Point Grundlagenkurs - Für Einsteiger | Udemy
+###Nutzungskompetenzen 2: HM Tools https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse6 
+		An der Hochschule München gibt es einige hochschuleigene Online-Anwendungen, die dir beim Zurechtfinden und der Strukturierung deines Studiums behilflich sein können. 
+		Nach Absolvierung dieses Teilbereichs kennst du diese Tools und kannst sie wie intendiert nutzen.
+		Moodle ist ein Lernmanagement-System, mit dem die Präsenzlehre durch Online-Kurse unterstützt und ergänzt werden kann. Die Hochschule München bietet den Dozierenden so die Möglichkeit ihren Präsenzunterricht mit E-Learning zu erweitern, um den Studierenden integriertes Lernen zu ermöglichen.
+		Moodle kann auch als Austausch- und Kommunikationsplattform z. B. für Forschungsprojekte oder Arbeitsgruppen dienen. Die Bezeichnung „Moodle“ steht für „Modular Object Oriented Dynamic Learning Environment" (Modulare, objektorientierte, dynamische Lernumgebung)“.
+		Unter folgenden Links findest du das Moodle Handbuch des E-Learning Centers (bitte klicke für eine Weiterleitung zu den Punkten auf die blau hinterlegten Wortgefüge). Hier werden dir die ersten Schritte in Moodle erklärt. 
+		Diese sind:
+		Außerdem werden von der Hochschule München regelmäßig Fortbildungskurse für Studierende und Dozierende sowohl auf Anfänger:innen- aks auch auf Fortgeschrittenen-Niveau angeboten.
+		
+		Hier wird z.B. vermittelt, 
+		
+		wie die Grundfunktionen von Moodle aussehen
+		welche Gestaltungsmöglichkeiten von Moodlekursen du hast und wie die Umsetzung von Lernpfaden gestaltet werden kann
+		wie kooperatives Lernen in Moodle aussehen kann
+		wie Tests mit verschiedenen Fragentypen in Moodle angelegt werden können und wie der Import und Export von Fragen und Fragenkategorien funktioniert
+		
+		Unter folgender Seite werden die Termine hierzu bekanntgegeben und stetig aktualisiert:
+		
+		Moodle - ELC - Hochschule München (hm.edu)
+		Sieh dir nun bitte dieses Einführungsvideo von Prof. Dr. Christian Strobel (Professor für Angewandte Psychologie und Digitalisierung an der HM) an (Dauer: 8:47 Minuten).
+		
+		Du erfährst hier, welche Funktionen in Moodle zur Verfügung stehen, wie Kurse angelegt und bearbeitet werden, wie Medien und Bilder eingefügt werden können, welche Aktivitäten für Studierende von Relevanz sind etc.:
+		NINE ist ein von der Fakultät für angewandte Sozialwissenschaften (FK 11) zu Verfügung gestelltes Informationssystem über die aktuellen (Lehr-)Veranstaltungen über welches Kurse eingesehen und belegt werden können.
+		
+		Es unterstützt Lehrende bei der Organisation des operativen Lehrbetriebs und dient damit unmittelbar zur Erfüllung des öffentlichen Auftrags einer staatlichen Hochschule. Der Funktionsumfang des Informationssystems NINE besteht aus
+		der Verwaltung der Termine von Lehrveranstaltungen (Datum, Uhrzeit, Titel, Raum, Dozierende),
+		der Verwaltung von Sprechstundenterminen
+		der Verwaltung von E-Mail Verteilerlisten zu Lehrveranstaltungen, Sprechstunden sowie Gruppen von Studierenden auf Basis von Studiengängen und Semestergruppen,
+		der Bekanntmachung von Ausschreibungen mit Bezug zum Studium, z.B. Stipendien, Praxissemester, Abschlussarbeiten
+		der Durchführung von Wahlverfahren, z.B. für Wahlpflichtveranstaltungen
+		der aktenkundigen Ausgabe von Abschlussarbeiten,
+		jeweils zum Nutzen der Studierenden. Die Verbesserung der operativen Rahmenbedingungen für Studierende umfasst
+		die Zusammenstellung eines persönlichen Stundenplans,
+		den Erhalt individueller Nachrichten, z.B. bei Terminverschiebungen,
+		die Vereinfachung von operativen Abläufen, z.B. Wahlverfahren, Sprechstundentermine, Abschlussarbeiten
+		Sieh dir bitte dieses Video zu NINE an (Dauer: 5:52 Minuten).
+		
+		Es wurde von Studierenden für Studierende gemacht und erläutert wie ihr Kurse belegen könnt, wie das Wahlverfahren und die Priorisierung funktioniert, wie ihr euren Semesterplan in euren privaten Kalender importieren und wie ihr Sprechstunden mit Dozierenden vereinbaren könnt:
+		PRIMUSS ist das Campus IT-System der Hochschule München. Du kannst PRIMUSS für folgende Services nutzen:
+		
+		Immatrikulationsbescheinigung (BaföG, Kindergeldkasse),
+		Notenbekanntgabe,
+		Studierendenausweis,
+		Losen/Einschreiben (AW-Fächer),
+		Prüfungsanmeldung,
+		Notenblatt,
+		Rückmeldung,
+		Semester-Termine,
+		Adressänderung.
+		Sieh dir nun bitte das Erklärvideo zu PRIMUSS an (Dauer 4:32 Minuten).
+		
+		Um zu dem Video zu gelangen, klicke auf das folgende Bild und scrolle so weit nach unten bis du dem abgebildeten Video gelangst:
+		Die E-Portfolio Software Mahara ermöglicht es dirsogenannte E-Portfolios zu gestalten und zu verwalten. Als persönliche Lernumgebung kombiniert Mahara die Erstellung von E-Portfolios mit sozialen Netzwerken und kooperativen Elementen.
+		Du sammelst und verwaltest deine Studienarbeiten, Dokumentationen und Reflexionen sowie andere Artefakte. Diese kannst du flexibel in Ansichten (kleinen Webseiten) arrangieren und einzelne Ansichten thematisch in Sammlungen bündeln. Ansichten und Sammlungen kannst du nun für bestimmte Personen (bspw. Lehrende), für ganze Gruppen (z.B. deine Projektgruppe), mittels geheimer URL für Externe sowie komplett öffentlich im Internet freigeben.
+		Du kannst dich in Gruppen organisieren und gemeinsam Inhalte erarbeiten und diese freigeben. Darüber hinaus bietet Mahara die Möglichkeit, deine Kontakte zu pflegen und miteinander zu kommunizieren.
+		Du kannst beim Verlassen der Hochschule dein Portfolio in unterschiedlichen Formaten exportieren und bspw. auf einer frei zugänglichen Mahara-Plattform importieren.
+		Das Wort Mahara kommt aus der Te Reo Māori Sprache und bedeutet "Gedanke" oder "Denken".
+###Selbstlerneinheit Imformationskompetenz https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse7 
+###Informationskompetenz 1: Suchen & Finden https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse8 
+		Datenbanken
+		Viele Studierende haben Schwierigkeiten bei der Literaturrecherche, wenn es darum geht, eine Hausarbeit zu schreiben. Oft ist nicht klar, wie bei der Literaturrecherche verfahren werden sollen. 
+		Zentrale Fragen sin dann oft: 
+		
+		Wie kann ich wissenschaftliche Literatur finden, die für meine Hausarbeit relevant ist? 
+		Was ist eine wissenschaftliche Quelle?
+		Wofür sind Quellen überhaupt gut?
+		Welche Datenbank für wissenschaftliche Artikel gibt es? 
+		Wo finde ich wissenschaftliche Artikel?
+		Wo kann ich Literatur Online finden?
+		Welche Quellen nutze ich?
+		Welche Quellen kann ich innerhalb einer Literaturrecherche und einer wissenschaftlichen Arbeit nutzen?
+		Um Antworten auf diese Fragen zu erhalten sieh dir einleitend bitte folgendes Video (15:49 Minuten) an, welches sich den o.g. Fragen annimmt und einen sehr guten Überblick über die Thematik gibt:
+		
+		Wie finde ich passende Datenbanken?
+		
+		Im Datenbank-Infosystem (DBIS) findest du eine Übersicht über die Datenbanken und E-Medien (E-Books, E-Journals, Normen, Statistiken etc.) der Hochschule München. Es ist hier sowohl möglich, fachübergreifend als auch fachspezifisch zu suchen:
+		https://dbis.ur.de/dbinfo/suche.phtml?bib_id=fhb_m&lett=l
+		Auch folgende Übersicht der Hochschule München ist äußerst hilfreich hinsichtlich des Suchens & Findens relevanter Literatur:
+		Bibliothek - Recherche - Übersicht - Hochschule München (hm.edu)
+		ResearchGate ist ein kommerzielles soziales Netzwerk und eine Datenbank im Internet für Forscher aus allen Bereichen der Wissenschaft, das auch als Dokumentenserver für Publikationen genutzt wird. 
+		Wissenschaftler:innen, die dem Netzwerk beitreten möchten, benötigen eine E-Mail-Adresse einer bekannten Forschungseinrichtung oder einer Universität/Hochschule oder müssen eine wissenschaftliche Publikation nachweisen. Mitglieder des Netzwerks haben ein Nutzer:innenprofil, auf dem sie Ergebnisse ihrer Forschung, inklusive Fachartikel, Forschungsdaten, Buchkapitel, Patente, Forschungsvorhaben, Methoden, Präsentationen und Quelltext für Computerprogramme teilen können. Mitglieder können anderen Mitgliedern folgen und mit ihnen in Kontakt treten. Es ist aber auch möglich, nur als "Konsument:in" der bereitgestellten Inhalte aufzutreten. Umfragen der Magazine Nature und Times Higher Education zufolge ist ResearchGate das aktivste akademische Netzwerk seiner Art. 
+		Kaufen muss man bei ResearchGate nichts. Über 60 Prozent aller in den letzten Jahren erschienenen Artikel werden von den Autor:innen über ihre Profilseite kostenlos zur Verfügung gestellt. Das ist ganz im Sinne von „Open Science“, also frei zugänglicher Wissenschaft. Sollten Artikel zunächst nicht frei zugänglich sein, so gibt es die Möglichkeit, den/die Autor:in über eine private Nachricht um den Volltext zu bitten.
+		Academia ist ein 2008 gegründetes Unternehmen, das einen kommerziellen Dokumentenserver betreibt. Academia versteht sich als Verteilstation für OpenAccess-Papers, die von Autor:innen selbst hochgeladen und verwaltet werden. Im Jahr 2015 wurde eine Peer-Review-Funktion namens „Draft Session“ hinzugefügt, die das Annotieren von PDF-Dokumenten unterstützt. Eine weiteLies dir nun bitte den unten angehängten Auszug aus dem "Leitfaden Literaturrecherche" der Technischen Universität Dresden durch (S. 4-10, Lesedauer ca. 5 Minuten) durch. Du erhältst hier hilfreiche Informationen zur Notwendigkeit und den Zielen sowie zur Struktur und Strategien einer Literaturrecherche.Optional:
+		Sollte tiefergehendes Interesse an dem gesamten Leitfaden bestehen, so steht dieser unter folgendem Link zum Download bereit: Leitfaden Literaturrecherche (tu-dresden.de)
+		re Funktionalität besteht darin, über einen Follow-Button den Aktivitäten anderer Nutzer:innen folgen zu können. 
+###Informationskompetenz 2: Bewerten, Interpretieren & Analysieren https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse9 
+Ein zentraler Aspekt hinsichtlich des Bewertens, Interpretierens und Analysierens ist die Überprüfung der Glaubwürdigkeit wissenschaftlicher Quellen.  Sie dir zu diesem Zwecke nun folgendes Guideline PDF sorgfältig an. Es umreißt die wichtigsten Elemente die bei der Überprüfung von Quellen zu berücksichtigen sind und hilft dir maßgeblich dabei, bei dem Überangebot an potentiell nutzbaren Quellen, die Spreu vom Weizen zu trennen. 
+Data Literacy - Kompetenzen für ein digitales Zeitalter
+Daten sind im digitalen Zeitalter eine Schlüsselressource für gesellschaftliche Teilhabe, Wohlstand und Wettbewerbsfähigkeit, für den Schutz von Klima und Umwelt sowie staatliches Handeln. Die Fähigkeiten, Daten auf kritische Art und Weise zu sammeln, zu managen, zu bewerten und anzuwenden, wird als Data Literacy bezeichnet. Data Literacy umfasst dabei nicht nur Statistikkompetenz oder ein mathematisches Grundverständnis, sondern auch Fertigkeiten wie Digital- und Medienkompetenz. Wer datenkompetent („data literate“) ist, kann die Zuverlässigkeit von Datenquellen beurteilen, Daten zielgerichtet aufbereiten und einordnen sowie sinnvolle Schlüsse aus diesen Daten ziehen. (für weiterführende Informationen siehe auch Data Literacy Charta des Stifterverbands)
+Sieh dir nun bitte folgendes Video von Minute 6:38 bis Minute 7:51 an, um zu erfahren, was Data Literacy umfasst und warum es im Zeitalter der Digitalisierung als Future Skill anzusehen ist.
+
+Information Literacy
+Neben der Fähigkeit "data literate" zu sein, ist es außerdem wichtig, eigene wissenschaftliche Standpunkte und die Fähigkeit zu kritischem Hinterfragen zu entwickeln. 
+Diese Fähigkeit mit beliebigen Informationen selbstbestimmt, souverän, verantwortlich und zielgerichtet umzugehen wird als "Information Literacy" bezeichnet. Für den Einzelnen gelten daher der ethische und verantwortungsbewusste sowie der ökonomische, effiziente und effektive Umgang mit Information(en) als grundlegende Prinzipien. (vgl. Ballod 2007: 290)
+
+Die Association of College and Research Libraries hat hierzu ein Framework erarbeitet, welches in sechs Frames gegliedert ist, die jeweils aus einem zentralen Konzept der Informationskompetenz, einer Reihe von Wissenspraktiken sowie einer Reihe von Dispositionen bestehen. Die sechs Konzepte, auf denen die Frames gründen sind in folgender Abbildung dargestellt:
+The ACRL Framework for Information Literacy and the Six Major Frames. From: Burress, T., Clark, M., Hernandez, S., & Myhill, N. (2015, June). Wikipedia: Teaching Metaliteracy in the Digital Landscape [ poster ]. Presented at the ALA Annual Conference & Exhibition, San Francisco.
+__________________________________________________________________________________________________________________________________
+Optional: für eine tiefergreifende Auseinandersetzung mit der Thematik und zum vollumfänglichen Verständnis der obigen Abbildung empfehlen wir folgenden Beitrag zum Themenschwerpunkt: 
+https://www.o-bib.de/bib/article/view/5674/8390
+Mache nun bitte folgenden Intro-Test um zu prüfen, ob du in der Lage bist, die hier in einem Post dargebotenen Informationen kritisch zu bewerten und auf Richtigkeit zu prüfen:
+https://checkup.digitalcheck.nrw/challenge/social/intro
+Nachdem du den Intro-Test absolviert hast, mache bitte den Test Level 1. Er hilft dir bei der Klärung der folgenden Fragen:
+	•	Kann ich Informationsrecherchen zielgerichtet durchführen und dabei Suchstrategien anwenden? (Informationsrecherche)
+	•	Kann ich themenrelevante Informationen und Daten aus Medienangeboten filtern, strukturieren, umwandeln und aufarbeiten? (Informationsauswertung)
+	•	Kann ich Informationen, Daten und ihre Quellen sowie dahinterliegende Strategien und Absichten erkennen und kritisch bewerten? (Informationsbewertung)
+	•	Kann ich unangemessene und gefährdende Medieninhalte erkennen und hinsichtlich rechtlicher Grundlagen sowie gesellschaftlicher Normen und Werte einschätzen; Jugend- und Verbraucherschutz kennen und Hilfs- und Unterstützungsstrukturen nutzen? (Informationskritik)
+###Informationskompetenz 3: Organisieren & Verwalten https://moodle.hm.edu/course/view.php?id=20192#coursecontentcollapse10 
+Wozu Literaturverwaltung?
+Ein Literaturverwaltungsprogramm unterstützt dich bei der Erstellung wissenschaftlicher Arbeiten. Es hilft dir, den Überblick über die verwendete Literatur zu behalten und effizient zu arbeiten.
+_____________________________________________________________________________________________
+
+Welche Funktionalitäten bietet ein Literaturverwaltungsprogramm?
+	•	Die Funktionalitäten können je nach Produkt variieren, ähneln sich aber bei den meisten Literaturverwaltungsprogrammen.
+	•	Klassische Funktionalitäten sind die Literaturrecherche sowie der Import und die Verwaltung von Titeldaten oder PDFs.
+	•	Beim Schreiben der Arbeit erleichtert ein Literaturverwaltungsprogramm das richtige Zitieren, indem es die Literaturangaben automatisiert im gewünschten Zitationsstil erstellt.
+	•	Zusätzlich bieten einige Programme die Möglichkeit, Quellen auch inhaltlich auszuwerten, z. B. durch das Abspeichern eines Abstracts oder wichtiger Zitate zu einem Titel.
+	•	Bei den meisten Produkten können mehrere Personen an einer Datenbank oder einem Projekt arbeiten, sodass ein Literaturverwaltungsprogramm auch in Teams eingesetzt werden kann.
+Zotero ist ein freies, quelloffenes Literaturverwaltungsprogramm zum Sammeln, Verwalten und Zitieren unterschiedlicher Online- und Offline-Quellen. Zotero unterstützt die Bearbeitung von bibliografischen Angaben und Literaturlisten, besonders in wissenschaftlichen Publikationen.
+Folgendes PDF enthält eine sehr hilfreiche Kurzanleitung hinsichtlich der Installation und den Funktionen von Zotero:
+In unserer digitalen Welt, in der wir täglich mit einer Fülle von Informationen und Dateien umgehen, kann es schnell unübersichtlich werden. Eine sinnvolle digitale Ordnerstruktur auf deinem PC kann dir dabei helfen, deine Dateien und Ordner sinnvoll zu organisieren, damit du deine Dokumente schneller findest. Dabei geht es nicht nur darum, Ordner anzulegen und Dateien hineinzuschieben, sondern auch um eine kluge Planung und Umsetzung der digitalen Ordnerstruktur.
+
+Sieh dir nun bitte abschließend folgendes Video an, um zu erfahren, worauf du dabei achten solltest, welche Überlegungen wichtig sind und wie du deine Ordner und die Dateien darin pflegen kannst:
+

@@ -1,0 +1,295 @@
+NEO – Campus der Zukunft | Bereich CREATE https://moodle.hm.edu/course/view.php?id=20193#coursecontentcollapse0  
+
+Das fakultätsübergreifende Projekt NEO – Campus der Zukunft (08/2021 – 12/2025) trägt an der Hochschule München zu einem lebendigen hybriden Campus bei, an welchem erfolgreiches Lernen und soziale Kooperation in Verbindung von Präsenz- und Online-Aktivitäten stattfinden.
+Im Teilprojekt NEO.Skills werden hierzu Selbstlerneinheiten zu den Bereichen LIVE, LEARN, CREATE, ENGAGE und DIGITAL WORLD implementiert.
+Du befindest dich aktuell im Bereich CREATE. 
+Die hierin enthaltenen Selbstlerneinheiten sind dem Maßnahmenkomplex „M1: Förderung der digitalen Studierfähigkeit“ zugeordnet, Teil des Arbeitspakets „AP 1.2: Online-Kurs Medienkompetenz“ und beinhalten folgende Unterbereiche:
+	◦	Selbstlerneinheit Produzieren & PräsentierenHerzlich willkommen zur Selbstlerneinheit zum Thema „Produzieren & Präsentieren"!Im Kompetenzbereich "Produzieren & Präsentieren" finden die in den anderen Bereichen der Selbstlerneinheiten erlernten Skills (siehe LIVE, LEARN, ENGAGE, DIGITAL WORLD) handlungs- und produktorientiert Anwendung. Beschreibung für die "Eiligen"Lerne Inhalte medial zu erzeugen, Deine Personal Learning Environment zu gestalten und nutze Generative KI, z.B. ChatGPT, effektiv. Die praxisorientierte Planung und Entwicklung von Medienprodukten erfordert sicheres Agieren in digitalen Umgebungen. Tauche ein in die Produktion und Präsentation von Medienprodukten – ein zentraler Bereich der Medienbildung. Entwickle Deine Fähigkeiten für eine moderne Medienkultur!Wer es genauer wissen willFachliche Inhalte bilden die Grundlage für das praktische Arbeiten, wobei das Recherchieren, Erheben, Verarbeiten und Sichern von Informationen der Planung und Entwicklung von Medienprodukten vorausgehen. Die praktische Arbeit findet zumeist im Rahmen kommunikativer und kooperativer Prozesse statt. Insbesondere die digitale Präsentation von Wissen sowie Arbeitsergebnissen bedürfen eines sicheren Agierens in digitalen Umgebungen. Den gesamten Arbeitsprozess durchdringen Teilkompetenzen aus dem Kompetenzfeld Analysieren, Kontextualisieren und Reflektieren, die in den anderen Selbstlerneinheiten vermittelt werden. Die praxis- und erfahrungsorientierte Auseinandersetzung mit (Medien-)Inhalten wiederum trägt ihrerseits zur Entwicklung von Medialitätsbewusstsein bei. Nicht nur durch das Zusammenspiel der verschiedenen Kompetenzfelder stellt die Produktion und Präsentation von Medienprodukten einen Kernbereich der Medienbildung dar. Da sie Grenzen zwischen Medienrezeption und -produktion zunehmend verwischen, spielt das Produzieren und Präsentieren eine immer größere Rolle in der Medienkultur.Vor diesem Hintergrund werden im Bereich „Produzieren & Präsentieren" Kompetenzen vermittelt, die all diese Punkte aufgreifen und zu einer adäquaten praktischen Umsetzung befähigen.DisclaimerIn dieser Selbstlerneinheit wurden weiterführende Links eingepflegt, die zu externen Seiten führen, auf welchen auch Werbung und Videos von Drittanbietern präsentiert werden könnten. Wir möchten darauf hinweisen, dass wir nicht für die Inhalte, Genauigkeit oder Legalität der auf diesen externen Websites auftauchenden weiterführenden Links verantwortlich sind. Die Nutzung dieser externen Links erfolgt auf eigene Verantwortung. Wir empfehlen, die Datenschutzrichtlinien und Nutzungsbedingungen der jeweiligen Drittanbieter zu überprüfen und weiterführende Links auf den von uns zum Zwecke des Lernens beworbenen Seiten nur dann wahrzunehmen, wenn du sicher bist, dass du dieser Quelle vertrauen kannst.
+###Produzieren & Präsentieren 1: Produzieren https://moodle.hm.edu/course/view.php?id=20193#coursecontentcollapse1  
+	◦	Wo finde ich Medien und Inhalte, die ich verwenden darf?	•	Bitte lies dir einleitend folgenden Kolumnenbeitrag von John Witzmann durch (Lesedauer ca. 9 Minuten). Er umreißt, was es mit dem Begriff Public Domain auf sich hat, welche Nutzbarkeiten für die Allgemeinheit daraus hervorgeht und warum es erstrebenswert ist, der Privatisierung von kreativen Erzeugnissen Einhalt zu gebieten:https://netzpolitik.org/2023/oeffentliches-geld-oeffentliches-gut-wie-wir-die-public-domain-zu-einem-wehrhaften-riesen-machen/#netzpolitik-pwWas ist Creative Commons?
+	◦	Ein hinsichtlich frei nutzbarer Quellen häufig anzutreffender Begriff ist der der "Creative Commons". 
+	◦	Creative Commons (CC) ist eine Non-Profit-Organisation, die in Form vorgefertigter Lizenzverträge eine Hilfestellung für Urheber zur Freigabe rechtlich geschützter Inhalte anbietet.
+	◦	Ganz konkret bietet CC sechs verschiedene Standard-Lizenzverträge an, die bei der Verbreitung kreativer Inhalte genutzt werden können, um die rechtlichen Bedingungen festzulegen. CC ist dabei selber weder als Verwerter noch als Verleger von Inhalten tätig und ist auch nicht Vertragspartner von Urhebern und Rechteinhabern, die ihre Inhalte unter CC-Lizenzverträgen verbreiten wollen. Die CC-Lizenzverträge werden vielmehr von den Urhebern übernommen und in eigener Verantwortung verwendet – um gegenüber jedermann klarzustellen, was mit den Inhalten ihrer Webseiten geschehen darf und was nicht (darum werden solche an die Allgemeinheit gerichteten Standardlizenzen auch “Jedermannlizenzen” genannt).  Welche Freiheiten genau geboten werden, hängt davon ab, welcher der sechs CC-Lizenzverträge jeweils zum Einsatz kommt.
+	◦	Sie dir nun bitte folgendes Video an, welches kurz (3:34 Minuten) und prägnant, die sechs CC-Lizenzverträge erläutert:
+	◦	Folgende Grafik zeigt das eben im Video vorgestellte CC-Lizenzspektrum auf einen Blick:
+			•	Auf vielen Seiten sind Fotos und andere Bilder umsonst verfügbar. Doch zwischen „kostenlos“, „lizenzfrei“, „gemeinfrei“ und „frei lizenziert” gibt es einige Unterschiede. Folgender Beitrag stellt elf empfehlenswerte Quellen für freie Bilder im Netz vor:https://irights.info/artikel/nicht-nur-kostenlos-sondern-frei-zehn-anlaufstellen-fuer-bilder-im-netz/22457Die unter 11. genannte Suchmaschine „CC Search“ heißt jetzt Openverse. Wie bisher ermöglicht sie das Auffinden und Nutzen CC-lizenzierter Fotos, Bilder und Audioinhalte. Neben den nützlichen Suchfiltern gibt es weitere hilfreiche Funktionen, etwa um die zugehörigen Lizenzhinweise direkt übernehmen zu können. Folgender Beitrag zeigt schrittweise, wie das geht:https://irights.info/artikel/so-funktioniert-die-neue-cc-search-suchmaschine/29492
+		Was ist bei der Erstellung von Schaubildern und Datenvisualisierungen zu beachten?Lies dir nun bitte folgenden Artikel der Informationsstelle OER (Open Educational Resources) durch. Hier erfährst du,
+		 welchen Stellenwert Infografiken in einer digitalisierten Welt haben, 
+		unter welchen Voraussetzungen du Infografiken mit anderen teilen, veröffentlichen, vervielfältigen, verbreiten oder öffentlich zugänglich machen darfst, 
+		was der Begriff der Schöpfungshöhe meint, 
+		ob du Zahlen, Daten und Fakten einer vorhandenen Infografik verwenden darfst, um daraus eigene Grafiken zu erstellen
+		ob du Infografiken bearbeiten und nachnutzen darfst und
+		wie mit Infografiken zu verfahren ist, die in einem Vektorgrafikformat vorliegen.
+		Link zum Beitrag:
+		https://open-educational-resources.de/infografiken-fuer-oer/
+		Wie erstelle ich ein Erklärvideo selbst? 
+		Um das Ganze nun in die Praxis zu überführen, sieh dir bitte u.s. Videos an. 
+		In den Videos wird gezeigt: 
+		Teil 1: Welche Möglichkeiten Du hast, eigene Erklärvideos zu erstellen
+		 Teil 2: Was Du brauchst (Soft- und Hardwaretipps), wenn Du Erklärfilme selbst erstellen möchtest
+		Teil 3: Wie Du am besten Schritt für Schritt dabei vorgehst
+		Das ganze Video inklusive Intro kannst du dir hier ansehen:
+		Inhalte unter Hinzunahme von generativer KI produzieren
+		Große Sprachmodelle (LLM) wie GPT 4.0 und andere Anwendungen der künstlichen Intelligenz (KI) sind heute in der Lage, Texte, Abbildungen und Animationen zu erstellen, die in ihrer äußeren Form von durch Menschen erzeugten Inhalten kaum zu unterscheiden sind. Im Gegensatz zu den bisher dominierenden KI-Modellen zur Analyse und Vorhersage begrenzter Daten spricht man hier von generativer künstlicher Intelligenz (Generative-AI). Mit der Veröffentlichung von ChatGPT wurden diese Systeme einer breiten Öffentlichkeit bekannt und verfügen über Benutzungsschnittstellen, die jeder verwenden kann. KI wurde von einer Innovation, die punktuell eingesetzt wurde, zu einer Systeminnovation. (Hochschullehrerbund 2023)
+		Nehmen wir als populärsten Verteter unter den generativen KI tools nun das tool ChatGPT, um uns mit der Frage auseinanderzusetzten, wie dem Einsatz generativer KI im Hochschulkontext begegnet werden kann und welche Nutzungskompetenzen dabei in der Anwendung unabdingbar sind.
+		Was ist ChatGPT?
+Strenggenommen ist ChatGPT – eine künstliche Intelligenz, die auf Aufforderungen Texte generiert – nicht einmal der Anfang, sondern lediglich Zwischenstation in einem seit etwa 10 Jahren zu beobachtenden Entwicklungsprozess des Natural Language Processing (NLP). ChatGPT kann auch nichts grundlegend Neues, was vorherige Tools nicht konnten. Es unterscheidet sich lediglich in der Qualität des generierten Outputs, der Fokussierung auf die Interaktivität (Eingabe von Fragen und KI-generierte Antworten) und vor allem in seiner bestechenden Einfachheit: Eine URL, eine Registrierung, ein einziges simples leeres Textfeld und schon steht einem die Unendlichkeit der Textgenerierung offen, die zudem (je nach Frage meistens) Sinnhaftes und Fundiertes von sich gibt, da sie auf einen Korpus von ca. 1 Billion Wörtern (aus 6 Millionen Wikipedia-Artikeln und Millionen von Büchern und Websites) zugreift. Trotz aller Kinderkrankheiten sind die Ergebnisse beeindruckend, verstörend und beeindruckend verstörend. Die gesamte akademische Welt von der Grundschule bis zur Exzellenzuniversität gerät in Aufregung, die einen aus dystopischer Panik, die anderen aus utopischer Naivität. Beide Positionen sind im höchsten Maße verständlich. Dies zeigt auch die Geschwindigkeit, mit der die breite Nutzung von ChatGPT Einzug in die Gesellschaft hält. (Weßels et al. 2022) 
+Diese ist enorm und beispiellos in der Geschichte der Zivilisation, siehe:
+Abbildung: Vergleich der Zeitenräume von Start bis 100 Millionen Anwendende
+Quelle: https://ki-campus.org/blog/generative-ki-in-der-hochschullehre
+Um die beindruckenden Fähigkeiten von ChatGPT selbst zu erproben, erstelle nun bitte selbst einen kostenlosen Account bei ChatGPT unter folgendem Link:
+ChatGPT (openai.com)
+Tippe nun bitte folgende Fragen in das Dialogfenster ein und lies dir die Antworten sorgfältig durch:
+	1	ChatGPT, kannst du dich kurz vorstellen?
+	2	Welches disruptive Potenzial hat ChatGPT in Bezug auf akademische Schreibprozesse?
+	3	Und wie sieht es andererseits mit den Gefahren aus?
+Wie begegnen Hochschulen diesen disruptiven Potentialen?
+Sieh dir nun bitte folgendes Video (Dauer 4:40 Minuten) an:
+Die rasanten Entwicklungen in Hinblick auf genrative KI führt also auch Hochschulen vor Augen, sich auf den Auftrag, den das Hochhttps://www.gesetze-im-internet.de/hrg/BJNR001850976.htmlschulrahmengesetz ihnen gibt, zu besinnen. 
+Hier heißt es in Paragraph 7 zum Ziel des Studiums: 
+"Lehre und Studium sollen den Studenten [ ... ]   die [ ... ]   erforderlichen fachlichen Kenntnisse, Fähigkeiten und Methoden [ ... ]   so vermitteln [ ... ]  , dass er zu verantwortlichem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt wird." 
+Das Rad lässt sich nicht zurückdrehen und wenn Inhalt immer häufiger automatisch erstellt wird, dann wird die Fähigkeit zur Bewertung und Einordnung zur entscheidenden Kernkompetenz. Lehre und Studium müssen dies abbilden weil KI-Sprachmodelle und -systeme ein Faktum im Bereich der Wissensarbeit sind. (Hoch-)Schulseitige Vogel-Strauß-Taktik ist daher fehl am Platz. Wenn es aber nicht mehr um das ‚Ob‘ der Verwendung von KI-Tools geht, dann muss die Frage lauten:
+	•	Wie soll der Einsatz künftig gestaltet werden? 
+	•	Welches Wissen, welche Kompetenzen benötigen Studierende (Lehrende, Schüler:innen) zwingend hierfür? 
+In vielen Bildungskontexten erscheint es sinnvoll, bestimmte grundlegende Kompetenzen aufzubauen, bevor Hilfsmittel und Abkürzungen genutzt werden, ganz im Sinne von „erst rechnen lernen, dann den Taschenrechner verwenden“. Studierende sollten daher eine – noch zu definierende – Ausprägung von Schreibkompetenz und vor allem Urteilskraft erreichen, damit sie KI-Tools sinnvoll einsetzen können. (Klehttps://hochschulforumdigitalisierung.de/die-hausarbeit-ist-tot-es-lebe-die-hausarbeit-entwicklungsorientierung-wissenschaftliches-arbeiten-und-ki-gemeinsam-denken/in 2023) Zu nennen wären hier z. B. die Fähigkeit zum wissenschaftlichen Arbeiten, Textmusterwissen etc., insbesondere aber analytisches und kritisches Denken, um automatisierte Produkte zu bewerten und ihre Nutzung zu steuern.
+
+Lies dir vor diesem Hintergrund nun bitte folgenden Anwendungvorschlag von Dr. Anna Faust (HU Berlin) durch. 
+Sie stellt einen Ansatz vor, wie eine Annäherung an KI-Technologien innerhalb der Lehre aussehen kann, um diese zielführend in Lehrveranstaltungen einzubinden. Es wird erörtert, auf welche Art und Weise die Abfrage von Wissen adaptiert werden muss, wenn die Nutzung von ChatGPT zugelassen wird. Der Ansatz umreißt damit die Potentiale und Grenzen von generativen KI-tools.
+https://hochschulforumdigitalisierung.de/integration-von-ki-tools-in-die-lehre/
+Es liegt also auf der Hand, dass Computional Offloading prüfungsrelevante Aktivitäten auf eine höhere kognitive Ebene verschiebt.
+Einschub: Was ist Computional Offloading?
+Fragen wir also ChatGPT selbst, wie Aufgaben an Universitäten und Hochschulen gestaltet werden können, um der Tatsache zu begegnen, dass die Stellung deskriptiver und synthetisierender Aufgaben nicht mehr dem Puls der Zeit entspricht und was mögliche Alternativaufgaben sein könnten.
+Wir fragen ChatGPT also:
+"Mit ChatGPT sind Aufgaben wie das Zusammenfassen eines Textes nicht mehr lernförderlich. Schlage mir ein paar Übungen vor, die Studierende machen könnten. Dabei dürfen sie auch ChatGPT verwenden, aber ihre eigene Lesitung muss erkennbar sein und nicht von ChatGPT abgenommen werden können."
+Das Ergebnis ist beachtlich und dient definitiv als Stütze beim Brainstorming. Die Evaluation des Outputs in einem nächsten Schritt ist dennoch unabdingbar. Hier das Ergebnis:
+Um die eben kennengelernten Potentiale und Grenzen generativer KI in der Praxis zu erproben, wurde an der  TU Braunschweig unter dem Namen „Hack my Exam“ getestet, ob sich mit ChatGPT wirklich so problemlos in Klausuren schummeln lässt. 
+Bite lies dir den dazugehörigen Erfahrungsbericht durch, in welchem Lehrende und Studierende die Funktionalität von KI-Tools anhand von alten Prüfungsaufgaben getestet haben und welche Erkenntnisse daraus gezogen wurden:
+Auch folgender Audiobeitrag vom Shttps://www.swr.de/wissen/chat-gpt-bot-co-autorschaft-studien-100.htmlWR umreißt die Tatsache, dass die Hinzunahme von Generativer KI zukünftig zum Standard avancieren wird und Nutzer:innen mehr und mehr zu Editor:innen werden. Auch dies macht einmal mehr deutlich, dass Promtkompetenzen entwickelt werden müssen, um die von Generativer KI produzierten Inhalte auf Richtigkeit, Qualität und wissenschaftliche Güte hin zu prüfen.
+Hör dir den Beitrag nun bitte an:
+Hands-on
+Die bisherigen Ausführungen bis hierhin sollten klar gemacht haben, dass ChatGPT und vergleichbare tools ein hilfreiches Mittel der Wahl sein können, um sich Aufgaben und Thematiken auf niedrig angesiedeltem Kompetenzniveaus anzunähern. 
+Hierbei steht als Lernziel die KI-Tool-Kompetenz im Vordergrund und es können beispielsweise folgende Fragen fokussiert werden:
+	•	Wie optimiere ich die Abfragen, um das beste Ergebnis zu erzielen?
+	•	Worauf muss bei der Begutachtung des Ergebnistextes geachtet werden? (z.B. Faktencheck)
+	•	Welche Reflexionen sind bei Nutzung des Tools zusätzlich erforderlich? (z.B. Bias, Hinterfragen von Stand der Trainingsdaten und Aktualität)
+	•	Aufgabenvorschlag: Die Studierenden sollen die Grenzen des KI-Tools ausloten – unter welchen Bedingungen generiert die KI einen sinnfreien oder falschen Output?
+Für genau diese Fragen findest du hier eine hands-on Guideline, die dir hilft deine Promt-Strategien für bessere Ergebnisse zu optimieren:
+https://the-decoder.de/chatgpt-guide-prompt-strategien/
+Mensch oder KI?
+
+Wir schließen das Thema Generative KI mit einem spielerischen Abschluss.
+Mache nun bitte folgendes Quiz, in welchem es darum geht, Zitate von Menschen von denen zu unterscheiden, die eine KI generiert hat. Klicke auf das Bild und scrolle auf der verlinkten Seite nach unten, um zum Quiz zu gelangen:
+
+###Produzieren & Präsentieren 2: Präsentieren https://moodle.hm.edu/course/view.php?id=20193#coursecontentcollapse2  
+Egal ob Student:in oder Berufstätige:r. Wir alle müssen irgendwann einmal Präsentationen erstellen.Präsentationen ermöglichen es, ein Konzept zu erklären, eine Idee zu vermitteln und die Zuhörendenschaft mit der richtigen Mischung aus Text und unterstützenden Grafiken zu überzeugen.Diese Fähigkeit ist von unschätzbarem Wert und kann dir in vielerlei Hinsicht helfen, z. B. wenn du später im Job Investoren dein Produkt oder deine Dienstleistung vorstellest, deinen Vorgesetzten deine Arbeit an einem neuen Produkt demonstrierst oder deine Forschung oder Arbeit im hochschulischen Kontext präsentierst.Die Erstellung einer Präsentation ist nicht mehr auf https://geekflare.com/professional-powerpoint-templates/ und Google Slides beschränkt. Denn es gibt moderne Präsentations-Softwarelösungen, mit denen sich Präsentationen ansprechend und einfach erstellen lassen. Sie verfügen über nützliche Funktionen und Designelemente und sind für jeden einfach zu bedienen.Nicht zuletzt die gestiegende Häufigkeit von Home Office-Arbeit im Zuge der Corona-Pandemie hat die Nutzung von Präsentationstools weiter beschleunigt.Im Folgende wirst du zunächst verschiedene Präsentationstools kennenlernen. Danach stellen wir einige Präsentationsmethoden vor.
+Canva ist äußerst benutzerfreundlich und intuitiv. Die einfache Handhabung ermöglicht auch Anfänger:innen schnelle Erfolgserlebnisse. Nicht zuletzt das unkomplizierte Drag-and-Drop-Konzept zur Erstellung komplexer Layouts bereit Freude. Um den vollen Funktionsumfang zu verstehen, sind die Tutorials unter dem Menüpunkt "Entdecken" empfehlenswert.
+Canva erlaubt dir eine sehr freie und einfache Gestaltung. Die Band­breite an Vorlagen erleichtert dir die Erstellung grafisch ansehnlicher Präsentationsfolien zusätzlich. Das macht Canva zu einem nutzer:innen­freundlichen und kostenlosen Online-Tool für Design-Anfänger:innen.
+Mit dem Tool lassen sich niedrigschwellig ansprechende und aussagekräftige Folien erstellen und individuell anpassen. Es sind Hunderte von Layouts hinterlegt, sodass für quasi jeden Themen- bzw. Domänenbereich eine ästhetisch wirksame Rahmung erzielt werden kann.
+Um Canva nutzen zu können, musst du zuerst einen Account erstellen. Das geht schnell und einfach über deine E-Mail-Adresse oder durch Social Logins wie Google oder Facebook. Nach der Bestätigung gelangst du direkt zur Startseite von Canva. Canva lässt sich in der Grundversion kostenfrei nutzen und ist unter folgendem Link zu finden:
+Home - Canva
+Sieh dir nun bitte folgendes Video an, welches eine Guideline enthält, wie man Präsentationen in Canva erstellt:
+Solltest du Canva nutzen wollen, um Flyer, Social Media-Beiträge, Einladungen oder Videos ansprechend gestalten zu wollen, hilft dir dieses Video:
+Zahlen, Daten und Fakten anschaulich visualisieren
+Canva eignet sich nicht nur für Marketingverantwortliche und Designer:innen, sondern auch für Projektpräsentationen und - wie in vielen Studiengängen unabdingbar - für die Darstellung von Statistiken. Mit tausenden Vorlagen wird es leicht, Zahlen in anschauliche Grafiken zu verwandeln und stilvolle Präsentationen zu erstellen, sei es mit Gantt-Diagrammen, Tortendiagrammen, Organisationsstrukturen oder Inventarlisten.
+Dank der zahlreichen Animationen, die man sowohl Elementen als auch Seiten zuweisen kann, kommt selbst in nüchterne Themen Bewegung. Vorteilhaft ist, dass man im Bearbeitungsfenster direkt eine Vorschau der Animation sieht.
+Bestehende PowerPoint-Präsentationen sowie Dateien aus Illustrator, PDF, Word oder Excel können in Canva importiert und weiterbearbeitet sowie grafisch aufbereitet werden. Das gilt auch für Bilder in Formaten wie JPEG, PNG, HEIC und WEBP, sowie Videos in MOV, GIF, MP4, MPEG und MKV.
+Wenn du Präsentationen erstellen, Social-Media-Beiträge verfassen, Daten visualisieren oder Flyer gestalten möchtest, musst du heute kein:e Grafikexpert:in mehr sein. Online-Designprogramme wie Visme haben die Erstellung visueller Inhalte für Anfänger:innen erheblich vereinfacht.
+Visme ist in der Basisversion kostenlos über folgenden Link verfügbar:
+Visme
+Bedienung
+Wenn du mit Visme Präsentationen und Layouts erstellen möchtest, musst du zunächst einen Account über E-Mail, Google oder Facebook erstellen. Leider bietet Visme keine kostenfreie Testphase für die Pro-Version an. Nachdem du dich angemeldet hast, wirst du von der Software mit einem übersichtlichen Dashboard begrüßt, von dem aus du alle deine Projekte verwalten und auf alle Menüs zugreifen kannst.
+Konzentriert aufs Wesentliche
+Das Besondere am Visme-Dashboard liegt in seiner Fokussierung auf das Wesentliche. Auf der linken Seite bietet ein dezentes Menü Zugriff auf deine eigenen Dateien, den Kalender, Markenkits und Statistikdaten. Daneben findest du Ordner für Projekte, geteilte Inhalte und deinen eigenen Content.
+Wenn du ein neues Layout erstellen möchtest, klicke einfach auf die Schaltfläche "Neu erstellen". Dann öffnet sich ein weiteres Menü mit verschiedenen Auswahlmöglichkeiten. Übrigens hast du auch die Option, deine eigene PowerPoint-Präsentation hochzuladen und zu bearbeiten.
+Ein Klick zur Vorlagenwelt
+Sobald du dich für eine der Optionen entschieden hast, zeigt das Programm unaufdringlich eine breite Auswahl an Vorlagen. Über dem Freitextfeld für individuelle Suchen befindet sich ein Icon-Menü, das den Zugang zu anderen Vorlagenarten erleichtert. Im unteren Bereich findest du sämtliche Präsentationslayouts zusammen mit hilfreichen Tags und Themenkategorien. Insgesamt ist die Aufteilung klar strukturiert und gut geordnet.
+Visme bietet bei Präsentationen zwei Auswahlmöglichkeiten: Thematisch gestaltete Layouts, bei denen Design, Farben und Aufmachung im Vordergrund stehen und aufeinander abgestimmt sind, sowie spezifische Vorlagen, die sich auf den Inhalt und die Aussagen konzentrieren. Insgesamt kannst du jedes Layout in einer Vorschau anzeigen und es dann nach deinen Bedürfnissen anpassen.
+Im Editor selbst wirst du nach einer gewissen Einarbeitungszeit leicht zurechtfinden. Alle Gestaltungswerkzeuge befinden sich auf der linken Seite des Bildschirms, die Folienübersicht auf der rechten Seite und die Informations- und Weiterverarbeitungsleiste oben.
+Strukturiertes Arbeiten
+Visme legt großen Wert auf Übersichtlichkeit und logische Struktur in Bezug auf sein Look & Feel. In den jeweiligen Vorlagen kannst du problemlos eigene Dateien wie Bilder, Videos oder Audiodateien per Klick hochladen und einbetten. Du musst dir keine Sorgen um die Sicherung der Layouts machen, da dies automatisch im Hintergrund geschieht.
+Nachdem du deine Vorlage finalisiert hast, bietet Visme erstaunlich viele Möglichkeiten zur Weiterverarbeitung. Du kannst die Folien direkt aus dem Programm heraus präsentieren, sie per Link teilen oder sie unter einer Visme-Domain im Web veröffentlichen und dann auf deiner eigenen Webseite per Code einbetten.
+Es gibt auch erstaunlich viele Einstellungsmöglichkeiten, die es dir ermöglichen, verschiedene Optionen in Bezug auf Handhabung, Datenschutz und Begleitmusik anzupassen. Wenn du unterwegs an deinen Layouts arbeiten möchtest, steht dir die Visme-App zur Verfügung.
+Features
+Das Erscheinungsbild von Visme ist dezent, aber hinter den Kulissen verbirgt sich eine umfangreiche Funktionalität. Es mag zwar nicht viele verschiedene Vorlagenarten geben, aber die vorhandenen sind äußerst vielseitig und anpassungsfähig. Allerdings benötigt es etwas Zeit, um sich mit allen verfügbaren Möglichkeiten vertraut zu machen.
+Im Menüpunkt "Elemente" findest du eine breite Palette von Gestaltungselementen (wie beispielsweise Kombinationen aus Überschriften und Text, Statistiken, Text-Bild-Layouts, Diagramme, Raster oder Call-to-Action-Vorlagen), mit denen du deine Layouts professionell gestalten und ansprechend gestalten kannst. Du kannst auch selbst erstellte Blöcke dort aufrufen und auswählen.
+Visme bietet eine umfangreiche Auswahl an Grafiken, darunter 3-D-Animationen und Spezialeffekte. Die Bibliothek für Stockfotos ist ebenfalls vorhanden, jedoch etwas schwierig zu durchsuchen.
+Die Software ermöglicht die Erstellung von Flyern, Broschüren und Postern sowie die ansprechende Darstellung von Zahlen und Daten mithilfe von Diagrammen und Tabellen. Du kannst auch Videos und Audiodateien einbetten, sowohl aus deiner Bibliothek als auch von Plattformen wie YouTube.
+Es gibt Tools zur Farbanpassung und Integration mit Cloud-Speichern, Projektmanagement-Plattformen und Newsletter-Tools. Die Videobearbeitung in Visme könnte jedoch etwas benutzerfreundlicher sein.
+Die Plattform bietet viele Vorlagen, darunter Social Media-Templates, die nach Plattform filterbar sind. Zeitschriften-Vorlagen sind eine Stärke von Visme.
+Prezi ist eine Alternative zu PowerPoint und zeichnet sich durch dynamische Animationsmöglichkeiten aus.
+Stell dir vor, du könntest all deine Präsentationsinhalte auf einem scheinbar endlos großen Tisch anordnen. Dann führst du dein Publikum wie mit einer Kamera von einem Thema zum nächsten, indem du hinein- und wieder herauszoomst. Dieses Prinzip ist das Grundkonzept von Prezi, und es bietet einige Vorteile:
+	•	Kamerafahrten und Zoomeffekte sorgen für unterhaltsame und dynamische Präsentationen.
+	•	Prezi nimmt die Zuschauer mit auf eine Reise und erzeugt eine interaktive und spannende Wirkung.
+	•	Die Präsentation wird nicht linear, was bei komplexen Themen oder der Darstellung von Zusammenhängen besonders nützlich ist.
+Prezi bietet drei Arten von Animationen:
+	•	Kamerafahrten zwischen den Folien.
+	•	Zoomeffekte, um Details hervorzuheben oder eine Vogelperspektive einzunehmen.
+	•	Das Erscheinen von Objekten oder Inhalten auf Knopfdruck, ähnlich wie in PowerPoint.
+Prezi ist online kostenlos verfügbar, bietet jedoch kostenpflichtige Varianten mit mehr Gestaltungsfreiheit und Offline-Nutzung an. Die kostenlose Version gibt es hier:
+Registrieren Sie sich für ein kostenloses Basic-Konto | Präsentationssoftware | Prezi
+Wofür eignet sich Prezi gut?
+	•	Die Darstellung von Zusammenhängen, Prozessen und komplexen Themen.
+	•	Präsentationen, die sowohl einen Überblick als auch detaillierte Einblicke bieten sollen.
+	•	Kreative Themen, insbesondere im Werbe- und Marketingbereich.
+	•	Präsentationen mit einer jungen Zielgruppe.
+Tipps für die Gestaltung von Prezi-Präsentationen
+	•	Verwende eine durchgängige Metapher, die sich durch die gesamte Präsentation zieht.
+	•	Plan deine Inhalte im Voraus, um die Kamerafahrt effizient festzulegen.
+	•	Sei sparsam mit zu schnellen und hektischen Kamerafahrten, um die Zuschauer nicht zu verwirren.
+Vorteile
+	•	Auffällige Animationseffekte wie Zoom und Kamerafahrten.
+	•	Non-lineare Präsentation und flexible Anordnung von Inhalten.
+	•	Einfaches Online-Teilen von Präsentationen.
+	•	Unterstützung für verschiedene Medien.
+	•	Anpassung an das Corporate Design in der Pro-Version.
+	•	Große Auswahl an kostenlosen Vorlagen.
+Nachteile
+	•	Relativ hoher Aufwand für eine gelungene Prezi-Präsentation.
+	•	Übermäßige Kamerabewegungen können die Zuschauer:innen desorientieren.
+	•	Gratisversion erfordert eine gute Internetverbindung und enthält das Prezi-Logo.
+	•	Prezi läuft auf Flash-Basis und erfordert Apps für mobile Geräte.
+Sieh dir nun bitte folgendes Video vom Prezi Support an, um zu erfahren, wie du in fünf einfachen Schritten eine solide Prezi Präsentation erstellen kannst. Dies wird anhand der fiktiven Figur Jimmy und seiner Geschäftsidee eines Limonadengeschäfts konstruiert und enthält folgende Abschnitte:
+	•	Auf dieser Seite sind die Schritte inklusive do's and don'ts nochmal detailliert verschriftlicht:
+	•	
+	•	5 einfache Schritte zur perfekten Prezi Präsentationen – Prezi Supporthttps://support.prezi.com/hc/de/articles/360009264613-5-einfache-Schritte-zur-perfekten-Prezi-Pr%C3%A4sentationen
+	•	PräsentationsmethodenPräsentationsmethoden sind von entscheidender Bedeutung, weil sie einen wesentlichen Einfluss auf die Wirksamkeit und den Erfolg einer Präsentation haben. Folgende Grundpfeiler helfen bei der Konzeption einer guten Präsentation:
+	1	Kommunikation: Präsentationen dienen der Kommunikation von Informationen, Ideen, Konzepten und Ergebnissen. Die Art und Weise, wie diese Informationen präsentiert werden, beeinflusst maßgeblich, ob die Botschaft verstanden und erinnert wird. Die richtigen Präsentationsmethoden helfen dabei, die Kommunikation klar und effektiv zu gestalten.
+	2	Aktivierung: Eine gute Präsentation fesselt das Publikum und hält seine Aufmerksamkeit aufrecht. Durch den Einsatz geeigneter Methoden wie Visualisierungen, Geschichten oder Interaktionen kannst du das Interesse deines Publikums wecken und sicherstellen, dass sie sich aktiv an der Präsentation beteiligen.
+	3	Verständlichkeit: Die Struktur und die visuelle Darstellung deiner Präsentation beeinflussen maßgeblich, wie gut das Publikum die präsentierten Informationen versteht. Klare Präsentationsmethoden helfen, komplexe Konzepte zu vereinfachen und verständlich zu vermitteln.
+	4	Überzeugungskraft: Wenn du in der Lage bist, dein Publikum von deinen Ideen oder Vorschlägen zu überzeugen, ist dies ein wichtiger Schritt zum Erfolg. Überzeugende Präsentationsmethoden, wie beispielsweise die Verwendung von Beweisen, Statistiken oder Fallstudien, können dazu beitragen, das Vertrauen deines Publikums zu gewinnen.
+	5	Gedächtnisverankerung: Menschen erinnern sich besser an Informationen, die auf ansprechende und gut strukturierte Weise präsentiert werden. Durch den Einsatz von Präsentationsmethoden wie bewusstes Wiederholen von Inhalten, visuelle und grafische Hilfsmitteln und das Vermitteln von Inhalt und Wissen bspw. entlang einer Geschicht können die Informationen besser im Gedächtnis des Publikums haften bleiben.
+	6	Professionelles Auftreten: Die Art und Weise, wie du eine Präsentation hältst, spiegelt deine Kompetenz und Professionalität wider. Gut gewählte Präsentationsmethoden zeigen, dass du dich auf das Thema gut vorbereitet hast und in der Lage bist, es überzeugend zu präsentieren.
+	7	Anpassungsfähigkeit: Unterschiedliche Präsentationssituationen erfordern unterschiedliche Methoden. Flexibilität bei der Auswahl und Anpassung von Präsentationsmethoden ist entscheidend, um auf die Bedürfnisse des Publikums und des Kontexts einzugehen.
+	•	Insgesamt tragen effektive Präsentationsmethoden dazu bei, Präsentationen informativer, überzeugender und ansprechender zu gestalten. Sie ermöglichen es, Botschaften klar zu vermitteln. Dies ist sowohl in verschiedenen beruflichen, akademischen als auch persönlichen Situationen von großer Bedeutung.Im Folgenden werden daher ausgewählte Präsenationsmethoden vorgestellt.
+Die Pecha Kucha-Methode ist eine Präsentationstechnik, die ihren Ursprung in Japan hat und sich weltweit großer Beliebtheit erfreut. Der Name "Pecha Kucha" stammt aus dem Japanischen und bedeutet so viel wie "wirres Geplauder" oder "Gesprächsgewirr". Diese Methode zeichnet sich durch ihre Kürze und Prägnanz aus und fördert die Fokussierung auf das Wesentliche.
+Sieh dir nun bitte folgendes Video an, in welchem erklärt wird, welche Punkte zu beachten sind, um eine gute Pecha Kucha-Präsentation zu erstellen:
+Im Wesentlichen besteht eine Pecha Kucha-Präsentation also aus 20 Folien, die jeweils 20 Sekunden lang angezeigt werden. Dies ergibt eine Gesamtdauer von 6 Minuten und 40 Sekunden pro Präsentation. Was diese Methode so effektiv macht, sind ihre klaren Einschränkungen. Hier sind einige Gründe die für die Auswahl der Methode sprechen:
+	1	Konzentration auf das Wesentliche: Die begrenzte Zeit zwingt die Präsentierenden, sich auf die entscheidenden Informationen zu konzentrieren. Es hilft, Überflüssiges zu eliminieren und sich auf die Kernbotschaften zu fokussieren.
+	2	Prägnanz und Klarheit: Da jede Folie nur 20 Sekunden dauert, müssen die Präsentierenden klar und prägnant sprechen. Dies fördert eine klare und verständliche Kommunikation.
+	3	Interesse wecken: Die kurze Dauer jeder Folie erfordert, dass die Präsentation lebendig und fesselnd ist, um das Publikum bei der Stange zu halten.
+	4	Vielseitig einsetzbar: Die Pecha-Kucha-Methode eignet sich für eine Vielzahl von Präsentationsthemen, sei es in der Wissenschaft, im Geschäftsleben oder in kreativen Bereichen.
+	5	Zeiteffizienz: Die Methode ist zeiteffizient, was insbesondere in Situationen nützlich ist, in denen mehrere Präsentationen in kurzer Zeit gehalten werden müssen.
+Die Pecha-Kucha-Methode ist also eine wirksame Methode, um Informationen klar, prägnant und interessant zu präsentieren. Sie fördert die Fähigkeiten der Präsentierenden, sich auf das Wesentliche zu konzentrieren und ihr Publikum effektiv zu erreichen.
+ACHTUNG
+Im Pecha Kucha bleibt aufgrund des schnellen Vortragsstils wenig Raum für spontane Interaktion. Alles, was auf eine Folie oder ein Bild bezogen werden soll, muss im Voraus präzise vorbereitet werden, um die 20-Sekunden-Grenze nicht zu überschreiten. Dies erfordert das Auswendiglernen des Präsentationstextes sowie wiederholtes Üben und Einstudieren.
+Die Entscheidung, ob die Pecha-Kucha-Methode für eine Präsentation geeignet ist, sollte vorab sorgfältig getroffen werden. Nicht jedes Thema oder Präsentationssetting ist dafür geeignet. Zudem stellt das 20-Sekunden-Limit für manche Vortragende einen großen Stressfaktor dar und es erschwert die freie Rede. Daher ist es wichtig, dass die Methode zur Person passt, die sie verwendet.
+Der Elevator Pitch, zu Deutsch Fahrstuhlpräsentation, ist eine kurze, prägnante Präsentationsmethode, die darauf abzielt, in der Zeit, die man benötigen würde, um mit jemandem in einem Aufzug (Elevator) von einer Etage zur anderen zu fahren, eine überzeugende Botschaft zu vermitteln. In der Regel dauert ein Elevator Pitch etwa 30 Sekunden bis maximal 2 Minuten. Diese Methode wird oft von Geschäftsleuten, Unternehmer:innen, Jobbewerber:innen und Start-up-Gründenden verwendet, um ihre Ideen, Produkte, Dienstleistungen oder sich selbst in knapper Form vorzustellen.
+Warum ist die Elevator-Pitch-Methode sinnvoll?
+	1	Zeitersparnis: In der heutigen schnellebigen Welt hat nicht jeder viel Zeit, um lange Präsentationen anzuhören. Ein Elevator Pitch ermöglicht es, in kurzer Zeit das Wichtigste zu vermitteln.
+	2	Klare Botschaft: Die begrenzte Zeit erfordert, dass die Kernbotschaft präzise und klar formuliert wird. Dies hilft, Missverständnisse zu vermeiden und das Wesentliche hervorzuheben.
+	3	Übung der Kommunikationsfähigkeiten: Die Methode fördert die Entwicklung der Fähigkeit, komplexe Ideen in einfacher Form zu präsentieren. Das ist nicht nur in beruflichen, sondern auch in persönlichen Situationen nützlich.
+	4	Effektive Netzwerkmöglichkeiten: Ein gut vorbereiteter Elevator Pitch kann dazu beitragen, wertvolle Kontakte zu knüpfen, sei es auf Networking-Veranstaltungen, Konferenzen oder in informellen Situationen.
+	5	Betonung des Mehrwerts: Der Pitch konzentriert sich auf den Mehrwert, den eine Idee, ein Produkt oder eine Person bietet. Das hilft, das Interesse des Zuhörenden zu wecken und einen positiven Eindruck zu hinterlassen.
+Sieh dir nun bitte folgendes Video an. um zu erfahren, wie ein Elevator Pitch aufgebaut ist, welche Struktur eine Kurzpräsentation hat und wie Du andere von dir oder deinem Projekt in einer Minute überzeugen kannst. Der Elevator Pitch eignet sich im Hochschulkontext besonders für kurze Projektvorstellung und die Vermittlung von Visionen. Im beruflichen Kontext ist er ein gutes Mittel der Wahl wenn es um adäquate Selbstpräsentation bei Jobbewerbungen geht:
+Die Wahl der geeigneten Präsentationsmethode ist von entscheidender Bedeutung, da nicht jede Methode zu jedem Thema oder Forschungsfeld passt. Wenn du in deinem Studium präsentierst, ist es entscheidend, die Methode an den spezifischen Kontext und das Forschungsfeld anzupassen.
+Was gilt es zu beachten?
+	1	Zielgruppe und Zweck: Je nachdem, wo und vor wem du präsentierst, ändern sich die Anforderungen. Bei wissenschaftlichen Konferenzen ist oft eine detaillierte Präsentation gefragt, während Geschäftspräsentationen klare und praxisnahe Informationen benötigen. Deine Methode sollte auf die Bedürfnisse deiner Zielgruppe zugeschnitten sein.
+	2	Komplexität des Inhalts: Komplexe wissenschaftliche Themen erfordern oft ausführliche Erklärungen und detaillierte Darstellungen. In solchen Fällen sind Methoden wie die traditionelle Vortragsweise oder die Nutzung von Visualisierungen und Diagrammen sinnvoll. Einfache Konzepte kannst du hingegen mit kreativeren und interaktiven Methoden vermitteln.
+	3	Kommunikationsziele: Je nach deinem Forschungsfeld und Thema können deine Ziele variieren. Manchmal möchtest du nur Informationen vermitteln, während du in anderen Fällen das Publikum überzeugen möchtest. In wieder anderen Fällen dient die Darstellung des status quo nur als Ausgangspunkt, um daran anschließend eine Vision auszubuchstabieren und du einen Ausblick geben möchtest, wie sich etwas diskursiv verändern könnte. Hier werden interaktive Elemente zum gemeinsamen Austausch relevant. Deine Methode sollte sich also an deine spezifischen Ziele anpassen.
+	4	Deine Präsentationsfähigkeiten: Jeder hat unterschiedliche Stärken. Manche fühlen sich wohler mit visuellen Hilfsmitteln, während andere komplexe Themen gut mündlich erklären können. Wähle eine Methode, die zu deinen Stärken und Vorlieben passt.
+	5	Zeitrahmen: In einigen Situationen gibt es begrenzte Zeitfenster für Präsentationen, wie in Konferenzen. Deine Methode sollte so gestaltet sein, dass du effektiv innerhalb des vorgegebenen Zeitrahmens präsentieren kannst.
+	6	Interaktivität: Einige Themen oder Felder profitieren von interaktiven Präsentationsmethoden, bei denen das Publikum aktiv einbezogen wird. In anderen Fällen ist eine klassische Vortragsweise angemessener.
+Auf der folgenden Seite der Universität Oldenburg findest du eine Zusammenstellung verschiedenster Präsentationsmethoden, die du beliebig nach deinen individuellen Präsentationszielen und -präferenzen miteinander kombinieren kannst. Oder du reicherst eine klassische Folienpräsentationen damit an, um einen erfrischenden Rythmuswechsel einzubauen und deine Kommiliton:innen mit spielerischen und interaktiven Komponenten zu deinem Thema abzuholen.
+Klicke auf das Foto um zu der reichhaltigen Methodenkartei zu gelangen:
+###Produzieren & Präsentieren 3: Selbstpräsentation im Internet https://moodle.hm.edu/course/view.php?id=20193#coursecontentcollapse3  
+In der heutigen digitalen Ära sind Fragen hinsichtlich der Selbstdarstellung im Internet von entscheidender Bedeutung, besonders für Studierende, die sich auf ihren zukünftigen beruflichen Weg vorbereiten. Hier sind einige Gründe, warum folgende Fragen von großer Relevanz sind:1. Googeln Unternehmen Bewerber:innen?
+	•	Unternehmen nutzen zunehmend das Internet, um mehr über relevante Bewerber:innen zu erfahren, bevor sie Vorstellungsgespräche führen oder Einstellungsentscheidungen treffen. Indem sie den Namen von Bewerbenden in Suchmaschinen eingeben, können sie auf Informationen stoßen, die nicht im Lebenslauf oder Anschreiben enthalten sind. Auch wenn nicht alle Unternehmen - abhängig von Größe und Kapazitäten in der Recruitingabteilung - potentielle Arbeitnehmer:innen googeln, sollten Studierende sollten sicherstellen, dass die Ergebnisse zu ihrem Online-Auftritt eine professionelle und positive Darstellung bieten und es "keine Leichen im Keller" gibt, die gefunden werden und zu einem Auschlusskriterium für die Einladung zu einem Vorstellungsgespräch avancieren könnten.
+	•	
+	•	2. Nutzen Unternehmen berufliche Netzwerke (LinkedIn, Xing etc.) zur Recherche?
+	•	Berufliche Netzwerke wie LinkedIn sind wertvolle Ressourcen für Arbeitgeber, um mehr über potenzielle Mitarbeitende zu erfahren. Unternehmen prüfen Profile auf solchen Plattformen, um Einblicke in den beruflichen Geschichte, Fähigkeiten und Empfehlungen zu gewinnen. Studierende sollten ihre Profile sorgfältig pflegen und sicherstellen, dass sie ihre berufliche Entwicklung und Qualifikationen adäquat darstellen.
+	•	
+	•	Die Antworten auf diese Fragen sind von großer Bedeutung, da sie den ersten Eindruck, den Arbeitgeber von Bewerber:innen gewinnen, erheblich beeinflussen können. Insbesondere für Berufsfelder, die mit Social Media zu tun haben, wie beispielsweise Social Media Manager, ist die Online-Präsenz im Bewerbungsprozess von großer Bedeutung.Eine sorgfältige Online-Selbstdarstellung kann die Chancen auf ein erfolgreiches Vorstellungsgespräch und die Auswahl für einen Job erheblich verbessern. Daher ist es für Studierende ratsam, ihre digitale Präsenz zu optimieren und sicherzustellen, dass sie professionell und ansprechend wahrgenommen werden.
+	•	3. Welche Tipps bzgl. Selbstdarstellung im Internet würden Sie unseren Studierenden mitgeben? Worauf muss man achten?
+Wir haben zu diesen Fragen den Talent Acquisition Specialst von Cognizant Netcentic, Daniel Kraetschmar befragt.
+
+Das Video (Dauer 7:57 Minuten) mit interessanten Einblicken, wie Recruiter:innen vorgehen und auf welche Dinge du unbedingt hinsichtlich deiner Selbstpräsentation im Internet und in Bewerbungsgesprächen achten solltest, findest du hier:Selbstlerneinheit Personal Learning Environment
+###Selbstlerneinheit Personal Learning Environment https://moodle.hm.edu/course/view.php?id=20193#coursecontentcollapse4 
+Herzlich willkommen zum Teilbereich zum Thema „Personal Learning Environment"!
+Was ist eine PLE?
+(Abbildung erzeugt mit Canva Magic Media in der free version)
+Eine Personal Learning Environment (PLE) ist ein individuell gestalteter Ansatz für das lebenslange Lernen, bei dem Studierende ihre eigenen Werkzeuge, Ressourcen und Methoden auswählen, um ihre Bildungsziele zu erreichen. Im Gegensatz zu traditionellen Lernumgebungen bietet die PLE den Lernenden die Freiheit, ihre Lernprozesse nach ihren eigenen Präferenzen zu gestalten und die für sie relevanten Ressourcen zu nutzen.
+Die PLE lässt „sich als didaktische Radikalisierung des Vernetzungsgedankens des Konnektivismus und des Aspekts des selbstgesteuerten Lernens im E-Learning 2.0 verstehen“ (https://link.springer.com/book/10.1007/978-3-658-28277-6). Sie fußt technisch auf (Web-)Applikationen, „die für eine individuelle und dezenrale Zusammenstellung vieler verschiendener (Web 2.0) Werkzeuge [ … ]   offen ist und dem Lernenden im Idealfall lebenslang [ … ]   zur Verfügung steht“ (http://www.dabis.org:4000/!bbfa!2008/02/Wissensmanagement_Weblogs.pdf). Sie beschreibt ein Arrrangement aus verschiedenen individuell miteinander operierenden Tools, über welche die individuelle Reflexion der:s Lernenden neben dem Konsum von Wissen auch über die eigenständige Produktion von Inhalt im Internet stattfindet. So kann sich organisch eine persönliche Lernlandschaft entwickeln, die als interaktives Portal mit allen Zugängen zur persönlichen digitalen Welt des Einzelnen fungiert (siehe Abb. 1). 
+Die Didaktisierung von und Entwicklung hin zu einer Personal Learning Environment (PLE) zielt darauf ab, die Stärkung der Selbstorganisationsfähigkeit des Individuums zu fördern, so dass die „Nutzer fähig sind, verschiedene und für ihre Lerninteressen geeignete Werkzeuge auszuwählen und einzusetzen“ (https://www.researchgate.net/publication/283516534_Handbuch_E-Learning_Lehren_und_Lernen_mit_digitalen_Medien).
+Anforderungen, denen PLEs gerecht werden müssen (vgl. ebd.):
+	•	Informationssuche
+	•	Informationsstrukturierung
+	•	Bearbeitung, Analyse und Reflexion
+	•	Präsentation
+	•	Netzwerken mit anderen
+Abbildung 1: Visualisierung einer Personal Learning Environment nach Kergel & Heidkamp-Kergel 2020, S. 73
+
+Wie kannst du vorgehen, um dir eine individuelle PLE aufzubauen?
+	•	Setze dich mit den folgenden Schritten und Ansätzen auseinander, wie du vorgehen kannst, um dir eine PLE aufzubauen und durchlaufe diejenigen Punkte, die für deine individuellen Bedürfnisse und Vorlieben passen:A. Zusammenstellen deiner PLE:Du kannst deine PLE individuell zusammenstellen, indem du die folgenden Schritte befolgst:
+	1	Selbstanalyse: Überlege, welche Lernziele du erreichen möchtest, welcher Lernstil zu dir passt und welche Ressourcen du benötigst.
+	2	Werkzeuge und Ressourcen auswählen: Wähle digitale Werkzeuge wie Lernplattformen, Apps, soziale Medien und physische Ressourcen wie Bücher und Notizen aus, die deinen Lernbedürfnissen entsprechen.
+	3	Kuratieren von Inhalten: Sammle und organisiere relevante Lerninhalte wie Videos, Artikel, Podcasts und Übungen, die dir bei deinen Zielen helfen.
+	4	Vernetzung: Nutze soziale Medien, Foren und Online-Communities, um dich mit Gleichgesinnten auszutauschen und Wissen zu teilen.
+	5	Regelmäßige Reflexion: Überprüfe regelmäßig deine Lernfortschritte und passe deine PLE entsprechend an.
+	•	B. Worauf du achten solltest:Bei der Zusammenstellung deiner PLE solltest du darauf achten:
+	1	Zuverlässigkeit: Stelle sicher, dass die ausgewählten Werkzeuge und Ressourcen zuverlässig und aktuell sind.
+	2	Datenschutz: Beachte Datenschutzrichtlinien, insbesondere wenn du Online-Dienste nutzt.
+	3	Vielfalt: Nutze eine breite Palette von Ressourcen und Werkzeugen, um deine Lernerfahrung zu bereichern.
+	4	Anpassungsfähigkeit: Sei bereit, deine PLE anzupassen, wenn sich deine Lernziele ändern.
+	•	C. Vorgehensweise:
+	1	Selbstreflexion: Identifiziere deine Ziele, Präferenzen und Bedürfnisse.
+	2	Werkzeuge und Ressourcen auswählen: Recherchiere und wähle die für dich geeigneten Werkzeuge und Ressourcen aus.
+	3	Kuratieren von Inhalten: Sammle relevante Materialien und organisiere sie in einer Struktur, die für dich funktioniert.
+	4	Vernetzung: Suche nach Online-Communities oder Gruppen, die sich auf deine Interessen beziehen, und trete ihnen bei.
+	5	Regelmäßige Anpassung: Überwache deine Fortschritte, evaluieren deine PLE und passe sie an, um kontinuierlich zu lernen und zu wachsen.
+	•	Die Personal Learning Environment bietet dir die Möglichkeit, dein eigenes Lernumfeld zu gestalten, das deinen individuellen Bedürfnissen entspricht und die Effektivität deines Lernens steigert.
+###Personal Learning Environment 1: Reflexion der eigenen PLE https://moodle.hm.edu/course/view.php?id=20193#coursecontentcollapse5 
+
+(Abbildung erzeugt mit Canva Magic Media in der free version)
+Die Reflexion der eigenen Personal Learning Environment (PLE) ist ein wichtiger Schritt, um sicherzustellen, dass sie effektiv und den eigenen Lernzielen entsprechend ist. 
+Setze dich mit den folgenden Schritten und Ansätzen auseinander, wie die Reflexion deiner PLE aussehen kann und entscheide für dich, was deinen passgenau für deine individuellen Bedürfnisse und Vorlieben funktioniert:
+	1	Ziele und Fortschritt bewerten: Überlege, ob du deine Lernziele erreicht hast oder ob es Anpassungen geben muss. Bewerte deinen Fortschritt und identifiziere Bereiche, in denen du erfolgreich warst, und solche, die noch Verbesserungen erfordern.
+	2	Effektivität der Ressourcen: Untersuche, ob die ausgewählten Werkzeuge und Ressourcen in deiner PLE immer noch relevant und effektiv sind (Besuche den Teilbereich https://moodle.hm.edu/course/view.php?id=20194#section-7 aus dem Bereich LIVE um verschiedene digitale Werkzeuge kennenzulernen). Gibt es bessere Alternativen? Oder benötigst du möglicherweise zusätzliche Ressourcen?
+	3	Lernprozess und -strategien: Analysiere, welche Lernstrategien und -prozesse in deiner PLE gut funktioniert haben und welche nicht. Reflektiere, ob du deinen Lernprozess optimieren kannst. (Besuche den Teilbereich https://moodle.hm.edu/enrol/index.php?id=20192#section-1 aus dem https://moodle.hm.edu/enrol/index.php?id=20192 für hilfreiche Infos und Tipps)
+	4	Zeitmanagement: Betrachte, wie effektiv du deine Zeit in deiner PLE genutzt hast. Gab es Zeiträume, in denen du dich überfordert gefühlt hast oder in denen du unterfordert warst? (Besuche den Teilbereich Selbstorganisation 1: Zeitmanagement aus dem Bereich LIVE für hilfreiche Infos und Tipps)
+	5	Feedback und Austausch: Berücksichtige das Feedback von Kommiliton:innen, Dozent:innen oder Mentor:innen. Hast du wertvolles Feedback erhalten, das du in deine PLE integrieren kannst?
+	6	Anpassungen vornehmen: Auf der Grundlage deiner Reflexion kannst du Anpassungen an deiner PLE vornehmen. Dies kann die Aktualisierung von Ressourcen, die Anpassung von Lernstrategien oder die Integration neuer Werkzeuge und Plattformen umfassen.
+	7	Langfristige Ziele: Überlege, wie sich deine langfristigen Lernziele entwickelt haben und ob sie sich geändert haben. Passe deine PLE an, um diese Ziele besser zu unterstützen. (Besuche den Teilbereich Selbstmotivation 2: Wie finde ich heraus, was ich wirklich will? aus dem Bereich LIVE, um zu lernen, wie du deine Ziele klar definieren und welche Mechanismen du etablieren kannst, um deinen Fokus für eine erfolgreiche Umsetzung ebendieser zu schärfen)
+	8	Dokumentation: Halte deine Reflexionen und Anpassungen in einem Lernjournal oder einer digitalen Notiz fest, damit du den Verlauf deiner PLE-Entwicklung nachverfolgen kannst (Besuche den Teilbereich Selbstorganisation 3: Digitale Tools aus dem Bereich LIVE, um tools kennenzulernen, die dich dabei unterstützen können).
+Die Reflexion deiner PLE sollte regelmäßig stattfinden, idealerweise am Ende eines Lernmoduls oder Semesters. Dies hilft dir, deine Lernerfahrung kontinuierlich zu optimieren und sicherzustellen, dass deine PLE deinen Bildungsbedürfnissen entspricht.
+	•	(Abbildung erzeugt mit Canva Magic Media in der free version)
+###Personal Learning Environment 2: Up to date sein & bleiben/Technikwissen https://moodle.hm.edu/course/view.php?id=20193#coursecontentcollapse6  	
+Im Zeitalter der Digitalisierung und schnellebigen Veränderungen, spielt es eine entscheidende Rolle, aktuelle Diskurse und deren Verschiebungen und Erosionen zu verstehen. Permanenter Informationsfluss vor dem Hintergrund der Globalisierung und technologischer Fortschritte haben eine vernetzte Gesellschaft geschaffen, in der es unabdingbar ist, up to date zu sein und zu bleiben.Ein zentraler Aspekt ist die Geschwindigkeit, mit der sich Wissen und Nachrichten verbreiten. In wenigen Sekunden können sich globale Ereignisse wie ein Lauffeuer verbreiten und die Welt "in Aufruhr" versetzen. Ein Bewusstsein für aktuelle gesellschaftliche Geschehnisse hilft, eine informierte Bürger:innenschaft hervorzubringen. In Zeiten von Desinformation, fake news, deepswaps und Fehlinformation, wird die Fähigkeit, Informationen zu filtern und zu verstehen, zu einer Schlüsselqualifikation.Die Arbeitswelt (Arbeit 4.0) bleibt von diesem Wandel nicht unberührt. Unternehmen passen sich neuen Technologien an, Märkte verändern sich und der Bedarf an Fachkenntnissen wächst. Ein kontinuierliches Update des eigenen Wissens wird zur beruflichen Überlebensstrategie. Wer nicht mit den neuesten Entwicklungen Schritt hält, riskiert, den Anschluss zu verlieren.Auch der Bildungsbereich wird von der digitalen Vernetzung tangiert. Studierende haben heute Zugriff auf eine unübersichtlich große Menge an Informationen. Um die Qualität von Bildung auszuloten, ist es entscheidend, dass Studierende nicht nur Zugang zu Wissen haben, sondern auch Fähigkeiten besitzen, relevante von irrelevanten und richtige von falschen Informationen zu unterscheiden.Zudem finden gesellschaftliche Debatten und Diskurse zunehmend online statt. Politische Entscheidungen, wissenschaftliche Erkenntnisse und soziale Veränderungen werden in Echtzeit diskutierbar und diskutiert. Um sich aktiv an diesen Debatten zu beteiligen, ist es unerlässlich, aktuelle Entwicklungen und Diskursverschiebungen zu verfolgen um sich in die Lage zu versetzen, eine eigene emanzipierte Haltung zu entwickeln und sich fundierte Meinungen zu bilden.Die Schnelllebigkeit unserer Zeit ist auch aus kultureller Perspektive von großer Bedeutung. Trends und Entwicklungen beeinflussen Kunst, Mode, Musik und die Art, wie Menschen miteinander interagieren. Wer in der Lage ist, diese Dynamik zu verstehen, kann nicht nur besser in der Gesellschaft navigieren, sondern auch kreativ und innovativ agieren.Entsprechend ist die Fähigkeit, sich kontinuierlich und adäquat zu informieren und zu lernen, ist nicht nur von individueller Bedeutung, sondern auch ein Beitrag zur aktiven Teilnahme an einer vernetzten Welt, was als Fundament für eine informierte, aufgeschlossene und zukunftsorientierte Gesellschaft fungiert.
+Setze dich mit den folgenden Schritten und Ansätzen auseinander, wie du vorgehen kannst, um up to date zu sein und es auch zu bleiben und wie du dein Technikwissen und -bewusstsein pflegen kannst:
+Aktive Teilnahme an Online-Plattformen:
+	•	Schließe dich relevanten Online-Plattformen, Foren und Diskussionsgruppen an, die sich auf deine Studienrichtung oder Interessen fokussieren.
+	•	Beteilige dich aktiv an Diskussionen, teile dein Wissen und lerne von anderen.
+Abonnieren von Fachzeitschriften und Blogs:
+
+	•	Suche nach renommierten Fachzeitschriften und Blogs in deinem Studienbereich und abonniere diese.
+	•	Lies regelmäßig Artikel, um auf dem neuesten Stand der Forschung und Entwicklungen zu bleiben.
+Social Media und Netzwerke nutzen:
+	•	Folge Expert:innen, Forscher:innen und Organisationen auf Social-Media-Plattformen wie LinkedIn
+	•	Nutze diese Plattformen, um Einblicke in aktuelle Diskussionen, Veranstaltungen und Innovationen zu erhalten.
+Teilnahme an Online-Veranstaltungen:
+	•	Registriere dich für Webinare, Online-Seminare und Konferenzen, um von führenden Köpfen in deinem Bereich zu lernen.
+	•	Nimm an virtuellen Veranstaltungen teil, um Networking-Möglichkeiten zu nutzen.
+E-Learning-Plattformen und Online-Kurse:
+
+	•	Melde dich für Online-Kurse an, die aktuelle Technologien und Trends in deinem Fachgebiet abdecken.
+	•	Nutze E-Learning-Plattformen, um dein technisches Wissen zu erweitern und auf dem neuesten Stand zu halten.
+Podcasts und Videoplattformen:
+
+	•	Höre regelmäßig Podcasts zu relevanten Themen in deinem Studienbereich.
+	•	Suche nach qualitativ hochwertigen Lehrvideos auf Plattformen wie YouTube, um komplexe Konzepte zu verstehen.
+RSS-Feeds und News-Aggregatoren:
+
+	•	Richte RSS-Feeds von vertrauenswürdigen Nachrichtenquellen und Blogs ein, um automatisch über aktuelle Entwicklungen informiert zu werden.
+	•	Nutze News-Aggregatoren, um Nachrichten zu filtern und auf die für dich relevanten Themen zu konzentrieren.
+Selbstreflexion und Zielsetzung:
+
+	•	Setze dir klare Lernziele und überprüfe regelmäßig, ob deine PLE diese Ziele unterstützt.
+	•	Reflektiere deine Lernfortschritte und passe deine PLE entsprechend an.
+Teilnahme an Workshops und Schulungen:
+
+	•	Nimm an Workshops, Schulungen und Meetups teil, um mit Expert:innen und Gleichgesinnten in Kontakt zu treten.
+	•	Tausche Erfahrungen aus und bleibe über lokale Entwicklungen informiert.
+Regelmäßige PLE-Überprüfung:
+
+	•	Überprüfe deine PLE regelmäßig auf veraltete Ressourcen und aktualisiere sie entsprechend.
+	•	Sei offen für neue Technologien und Ansätze, um deine Lernumgebung dynamisch zu halten.
+
