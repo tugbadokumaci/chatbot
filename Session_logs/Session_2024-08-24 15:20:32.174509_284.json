@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "q0 from web",
+            "answer": "Ich habe Informationen zu Selbstmotivation gefunden. Wenn du mehr \u00fcber dieses Thema erfahren m\u00f6chtest, gehe zu diesem Link: https://moodle.hm.edu/course/view.php?id=20194#COURSECONTENTCOLLAPSE3 <subtitle url zu einem Untertitel \u00fcber Selbstmotivation> \nWelche spezifischen Fragen hast du zur Selbstmotivation?",
+            "required_time": "0:00:00.503059"
+        }
+    ],
+    "votes": [
+        {
+            "QuestionID": 0.0,
+            "PositivVote": true
+        }
+    ]
+}

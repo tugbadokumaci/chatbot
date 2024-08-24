@@ -1,0 +1,50 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "q0 from web",
+            "answer": "Wie kann ich meine Selbstmotivation steigern? Wenn du mehr \u00fcber dieses Thema erfahren m\u00f6chtest, gehe zu diesem Link: https://moodle.hm.edu/course/view.php?id=20194#COURSECONTENTCOLLAPSE3. Hast du noch weitere Fragen zur Selbstmotivation?",
+            "required_time": "0:00:00.489963"
+        },
+        {
+            "question_id": 1,
+            "question": "q1 from web",
+            "answer": "Wenn du mehr \u00fcber Medien und Technologie erfahren m\u00f6chtest, klicke auf diesen Button: https://moodle.hm.edu/course/view.php?id=20196#COURSECONTENTCOLLAPSE3. Gibt es noch etwas Spezifisches, das du \u00fcber Medien und Technologie wissen m\u00f6chtest?",
+            "required_time": "0:00:00.360970"
+        },
+        {
+            "question_id": 2,
+            "question": "q2 from web",
+            "answer": "Welche digitalen Tools kann ich f\u00fcr meine Pr\u00e4sentation im Unterricht verwenden? Um herauszufinden, welche digitalen Tools du f\u00fcr digitale Zusammenarbeit verwenden kannst, klicke auf diesen Button: https://moodle.hm.edu/course/view.php?id=20195#COURSECONTENTCOLLAPSE4. Brauchst du weitere Informationen zu digitalen Pr\u00e4sentationstools?",
+            "required_time": "0:00:00.330048"
+        },
+        {
+            "question_id": 3,
+            "question": "q3 from web chrome",
+            "answer": "Ich habe keine Informationen zu \"q3 from web chrome\" in den bereitgestellten Dokumenten. Gibt es noch eine andere Frage, bei der ich Ihnen behilflich sein kann?",
+            "required_time": "0:00:00.299426"
+        }
+    ],
+    "votes": [
+        {
+            "QuestionID": 0,
+            "PositivVote": false
+        },
+        {
+            "QuestionID": 2,
+            "PositivVote": true
+        },
+        {
+            "QuestionID": 1,
+            "PositivVote": true
+        },
+        {
+            "QuestionID": 1,
+            "PositivVote": false
+        },
+        {
+            "QuestionID": 3,
+            "PositivVote": true
+        }
+    ]
+}

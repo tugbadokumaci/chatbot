@@ -1,0 +1,30 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "question from web q0",
+            "answer": "I'm sorry, I couldn't find any relevant information in the provided documents to answer your question. If you have any other questions or need assistance on a different topic, feel free to ask!",
+            "required_time": "0:00:01.220461"
+        },
+        {
+            "question_id": 1,
+            "question": "question from web q1",
+            "answer": "Ich konnte keine relevanten Informationen in den bereitgestellten Dokumenten finden, um Ihre Frage zu beantworten. Wenn Sie weitere Fragen haben oder Hilfe zu einem anderen Thema ben\u00f6tigen, lassen Sie es mich wissen!",
+            "required_time": "0:00:00.412528"
+        }
+    ],
+    "votes": [
+        {
+            "QuestionID": 1,
+            "PositivVote": false
+        },
+        {
+            "QuestionID": 1,
+            "PositivVote": true
+        },
+        {
+            "QuestionID": 2,
+            "PositivVote": true
+        }
+    ]
+}

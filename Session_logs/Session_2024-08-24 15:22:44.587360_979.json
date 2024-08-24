@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "q0 from chrome",
+            "answer": "Entschuldigung, ich konnte keine Informationen zu \"q0 from chrome\" in den bereitgestellten Dokumenten finden. Gibt es noch etwas anderes, wor\u00fcber ich Ihnen helfen kann?",
+            "required_time": "0:00:00.521826"
+        },
+        {
+            "question_id": 1,
+            "question": "q1 from chrome",
+            "answer": "Entschuldigung, ich konnte keine Informationen zu \"q1 from chrome\" in den bereitgestellten Dokumenten finden. Gibt es noch etwas anderes, wor\u00fcber ich Ihnen helfen kann?",
+            "required_time": "0:00:00.287187"
+        },
+        {
+            "question_id": 2,
+            "question": "q2 from web",
+            "answer": "Entschuldigung, ich konnte keine Informationen zu \"q2 from web\" in den bereitgestellten Dokumenten finden. Gibt es noch etwas anderes, wor\u00fcber ich Ihnen helfen kann?",
+            "required_time": "0:00:00.307985"
+        }
+    ],
+    "votes": [
+        {
+            "QuestionID": 0,
+            "PositivVote": false
+        },
+        {
+            "QuestionID": 1,
+            "PositivVote": true
+        }
+    ]
+}

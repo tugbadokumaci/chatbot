@@ -203,18 +203,16 @@ def response(message, history,session_id):
 
 def vote(data: gr.LikeData,history, session_id):
     # histories = chat_engine.chat_history
-    print('1')
     with open(get_logging_file(session_id), 'r') as fp:
         log_data = json.load(fp)
-    print('2')
+    question_id = data.index[0]
+
     log_data['votes'].append({
-        'QuestionID': len(history),
+        'QuestionID': question_id,
         'PositivVote': data.liked,
     })
-    print('3')
     with open(get_logging_file(session_id), 'w') as fp:
         json.dump(log_data, fp)
-    print('4')
 
 
 
