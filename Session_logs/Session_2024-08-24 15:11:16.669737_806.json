@@ -1,0 +1,17 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "Question 1 from mobile",
+            "answer": "M\u00f6chtest du mehr dar\u00fcber erfahren, wie Selbstwirksamkeit in der heutigen mobilen Welt eine wichtige Schl\u00fcsselkompetenz darstellt? Wenn ja, kann ich dir weitere Informationen dazu geben.",
+            "required_time": "0:00:02.968265"
+        },
+        {
+            "question_id": 1,
+            "question": "Question 2 from mobile ",
+            "answer": "M\u00f6chtest du mehr dar\u00fcber erfahren, wie exzessive Mediennutzung durch mobile Ger\u00e4te entstehen kann und welche Ursachen dahinter liegen k\u00f6nnten? Wenn ja, kann ich dir weitere Informationen dazu geben.",
+            "required_time": "0:00:00.411993"
+        }
+    ],
+    "votes": []
+}

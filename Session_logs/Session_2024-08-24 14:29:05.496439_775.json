@@ -1,0 +1,23 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "how to be patience",
+            "answer": "If you want to learn more about developing patience, you can find helpful information in this document: https://moodle.hm.edu/course/view.php?id=20194#COURSECONTENTCOLLAPSE3\nWhat other aspects of personal development are you interested in exploring further?",
+            "required_time": "0:00:00.453782"
+        },
+        {
+            "question_id": 0,
+            "question": "how to be successful",
+            "answer": "If you are looking to enhance your chances of success, you may benefit from exploring strategies for self-motivation. For more insights on this topic, you can refer to the following subtitle link: https://moodle.hm.edu/course/view.php?id=20194#COURSECONTENTCOLLAPSE2\nIs there a specific area of success you are focusing on, such as academic, professional, or personal success?",
+            "required_time": "0:00:00.296281"
+        },
+        {
+            "question_id": 0,
+            "question": "how to make good friendships",
+            "answer": "To cultivate and maintain good friendships, it can be helpful to understand the dynamics of social interactions and communication. For more guidance on building strong relationships, you can refer to the following subtitle link: https://moodle.hm.edu/course/view.php?id=20195#COURSECONTENTCOLLAPSE4\nWhat are some specific qualities or values you consider important in a friendship?",
+            "required_time": "0:00:00.308988"
+        }
+    ],
+    "votes": []
+}

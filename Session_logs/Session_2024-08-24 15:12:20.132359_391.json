@@ -1,0 +1,17 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "different session from web q1",
+            "answer": "M\u00f6chtest du mehr dar\u00fcber erfahren, wie Selbstwirksamkeit in unserer schnelllebigen und von Ver\u00e4nderung gepr\u00e4gten Welt zu einer neuen Schl\u00fcsselkompetenz avanciert? Wenn ja, kann ich dir weitere Informationen dazu geben.",
+            "required_time": "0:00:00.258566"
+        },
+        {
+            "question_id": 1,
+            "question": "different session from web q2",
+            "answer": "M\u00f6chtest du mehr dar\u00fcber erfahren, wie exzessive Mediennutzung durch die Verwendung von digitalen Ger\u00e4ten entstehen kann und welche Ursachen dahinter liegen k\u00f6nnten? Wenn ja, kann ich dir weitere Informationen dazu geben.",
+            "required_time": "0:00:00.286698"
+        }
+    ],
+    "votes": []
+}

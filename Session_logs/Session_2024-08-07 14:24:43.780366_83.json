@@ -1,0 +1,17 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "Hey, send me to the time management submodule!",
+            "answer": "If you are interested in learning more about time management, you can visit this link: https://moodle.hm.edu/course/view.php?id=20194#coursecontentcollapse5. Would you like to know more details about a specific aspect of time management?",
+            "required_time": "0:00:00.484560"
+        },
+        {
+            "question_id": 0,
+            "question": "How to be more effective ",
+            "answer": "If you want to improve your effectiveness, you can explore strategies and tips in the \"Self-Motivation 2: How to Find Out What I Really Want\" section. You can access it through this link: https://moodle.hm.edu/course/view.php?id=20194#coursecontentcollapse2. Is there a specific area of effectiveness you would like to focus on?",
+            "required_time": "0:00:00.659380"
+        }
+    ],
+    "votes": []
+}

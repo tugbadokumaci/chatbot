@@ -1,0 +1,29 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "projectmanagement application suggestions?",
+            "answer": "Wenn Sie nach Vorschl\u00e4gen f\u00fcr Projektmanagement-Anwendungen suchen, k\u00f6nnen Sie sich die folgenden Tools ansehen:\n\n1. Asana: Besonders f\u00fcr kleine Teams geeignet, die eingespielte Abl\u00e4ufe und direkte Kommunikation pflegen. Mit der kostenlosen Version k\u00f6nnen bis zu 15 Mitarbeitende Nachrichten schreiben, Projekte diskutieren, Dokumente austauschen, Aufgaben verwalten, zuteilen und in Kalender \u00fcberf\u00fchren. Sie k\u00f6nnen auch verschiedene andere Tools je nach Bedarf aus einem App-Verzeichnis integrieren. Asana ist als Cloud-App im Browser oder als sehr anwenderfreundliche Smartphone-App nutzbar. Hier ist der Link zum Download: https://asana.com/de/pricing\n\n2. Slack: Eine cloudbasierte Kommunikationsplattform, die die Remote-Zusammenarbeit erheblich erleichtert. Slack bietet zahlreiche Funktionen, die Ihr Team bei der Remote-Arbeitskommunikation und -organisation unterst\u00fctzen. Besonders beliebt f\u00fcr Teams jeder Gr\u00f6\u00dfe, da es als intuitive und benutzerfreundliche L\u00f6sung konzipiert ist. Eine Schl\u00fcsselfunktion von Slack sind die sogenannten Channels, die spezielle Bereiche schaffen, um bestimmte Themen oder Projekte zu diskutieren. Hier ist der Link zur weiteren Information: https://moodle.hm.edu/course/view.php?id=20195#coursecontentcollapse4\n\nWelche Art von Funktionen sind Ihnen besonders wichtig bei einer Projektmanagement-Anwendung?",
+            "required_time": "0:00:00.459292"
+        },
+        {
+            "question_id": 1,
+            "question": "how to efficially study for our exams?",
+            "answer": "Um effektiv f\u00fcr Ihre Pr\u00fcfungen zu lernen, k\u00f6nnen Sie folgende Tipps ber\u00fccksichtigen:\n\n1. Zeitmanagement: \u00dcberpr\u00fcfen Sie, wie effektiv Sie Ihre Zeit f\u00fcr das Lernen genutzt haben. Identifizieren Sie Zeitr\u00e4ume, in denen Sie sich \u00fcberfordert oder unterfordert gef\u00fchlt haben. Eine gute Selbstorganisation und Zeitmanagement sind entscheidend f\u00fcr den Lernerfolg. Hier ist der Link f\u00fcr weitere Informationen: https://moodle.hm.edu/enrol/index.php?id=20192#section-1\n\n2. Feedback und Austausch: Ber\u00fccksichtigen Sie das Feedback von Kommiliton:innen, Dozent:innen oder Mentor:innen. Wertvolles Feedback kann Ihnen helfen, Ihre Lernumgebung zu verbessern und in Ihre Lernstrategien zu integrieren. Hier ist der Link f\u00fcr weitere Informationen: https://moodle.hm.edu/enrol/index.php?id=20192\n\nWelche spezifischen Herausforderungen haben Sie beim Lernen f\u00fcr Pr\u00fcfungen?",
+            "required_time": "0:00:00.346856"
+        },
+        {
+            "question_id": 2,
+            "question": "Hey, send me to the time management submodule!",
+            "answer": "If you are looking for information on time management, you can access the submodule on time management by clicking on this link: https://moodle.hm.edu/course/view.php?id=20194#coursecontentcollapse5\n\nIs there a specific aspect of time management you are interested in exploring further?",
+            "required_time": "0:00:00.332989"
+        },
+        {
+            "question_id": 0,
+            "question": "How can I improve my long-term self-discipline while studying for my university exams?",
+            "answer": "To improve your long-term self-discipline while studying for university exams, you can consider the following strategies:\n\n1. Set Clear Goals: Define specific, measurable goals for your study sessions and overall exam preparation. Break down your study material into manageable tasks and create a study schedule to stay on track. Setting clear goals can help you stay focused and motivated.\n\n2. Create a Study Environment: Establish a dedicated study environment that is free from distractions and conducive to learning. Minimize interruptions, turn off notifications on your devices, and create a comfortable workspace that promotes concentration.\n\n3. Practice Self-Regulation: Develop self-regulation skills by setting boundaries for study time, breaks, and leisure activities. Use techniques like the Pomodoro Technique to work in focused intervals with short breaks in between. This can help you maintain productivity and avoid burnout.\n\nFor more detailed information on improving self-discipline while studying for exams, you can explore the following submodule on self-motivation: https://moodle.hm.edu/course/view.php?id=20194#coursecontentcollapse3\n\nWhat specific challenges do you face when trying to maintain self-discipline during exam preparation?",
+            "required_time": "0:00:00.348482"
+        }
+    ],
+    "votes": []
+}

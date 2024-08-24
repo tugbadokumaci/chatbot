@@ -1,3 +1,5 @@
+import datetime
+import random
 import os
 import openai
 from pathlib import Path
@@ -5,6 +7,7 @@ import gradio as gr
 from theme import CustomTheme  
 import time
 import asyncio
+import json
 
 
 from llama_index.embeddings.openai import OpenAIEmbedding
@@ -12,6 +15,28 @@ from llama_index.core.node_parser import SentenceSplitter
 from llama_index.llms.openai import OpenAI
 from llama_index.core import Settings
 from llama_index.core import SimpleDirectoryReader
+
+log_folder = "Session_logs"
+
+def get_logging_file(session_id):
+    return log_folder + '/Session_' + session_id[0] + '.json'
+
+
+def session_id_manager(session_id):
+    if len(session_id) == 0:
+        print('new id')
+        session_id.append(str(datetime.datetime.now()) + '_' + str(random.randint(0, 1000)))
+        with open(get_logging_file(session_id), 'w') as fp:
+            json.dump(
+                {
+                    'questions': [],
+                    'votes': []
+                },
+                fp
+            )
+    else:
+        print('id exists')
+    return session_id
 
 ####THEME
 
@@ -110,13 +135,6 @@ prompt = (
 
 prompt_template = PromptTemplate(prompt)
 
-def upload_file(filepath):
-    name = Path(filepath).name
-    return [gr.UploadButton(visible=False), gr.DownloadButton(label=f"Download {name}", value=filepath, visible=True)]
-
-def download_file():
-    return [gr.UploadButton(visible=True), gr.DownloadButton(visible=False)]
-
 # check if storage already exists
 if not os.path.exists("./storage"):
     # load the documents and create the index
@@ -145,21 +163,58 @@ chat_engine = index.as_chat_engine(
     chat_mode= "context", system_prompt=system_prompt, context_template=context)
 
 
-def response(message, history):
+def response(message, history,session_id):
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
     
     histories = chat_engine.chat_history
+    start = datetime.datetime.now()
     answer = chat_engine.stream_chat(message, chat_history=histories)
+    end = datetime.datetime.now()
+    required_time = end - start
 
     output_text = ""
     for token in answer.response_gen:
         time.sleep(0.1)
-
         output_text += token
-        yield output_text
 
-    #return str(answer)
+    session_id = session_id_manager(session_id )
+
+    question_id = len(history)
+    with open(get_logging_file(session_id), 'r') as fp:
+        log_data = json.load(fp)
+
+    res = {
+        'question_id': question_id,
+        'question': message,
+        'answer': output_text,
+        'required_time': str(required_time)
+    }
+
+    log_data['questions'].append(res)
+    
+    with open(get_logging_file(session_id), 'w') as fp:
+        json.dump(log_data, fp)
+
+    print('success')
+    response = history + [(message, output_text)]
+    return response, session_id ,''
+    # return str(answer)
+
+def vote(data: gr.LikeData,history, session_id):
+    # histories = chat_engine.chat_history
+    print('1')
+    with open(get_logging_file(session_id), 'r') as fp:
+        log_data = json.load(fp)
+    print('2')
+    log_data['votes'].append({
+        'QuestionID': len(history),
+        'PositivVote': data.liked,
+    })
+    print('3')
+    with open(get_logging_file(session_id), 'w') as fp:
+        json.dump(log_data, fp)
+    print('4')
 
 
 
@@ -173,40 +228,74 @@ html_content_outer_logo = """
 </div>
 """
 
-chat = gr.ChatInterface(
-                    response,
-                    chatbot=gr.Chatbot(height=300, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>"),
-                    title="Neo Skills Chatbot",
-                    description="Chat with Neo Skills Chatbot to improve your social skills",
-                    theme=theme,
-                    css="chatinterface.css",
-                    examples=["Hey, send me to the time management submodule!","Which office skills concepts would be nice for me to adopt before starting my first job?", "What methods can I use to come up with more effective ideas ?","How can I improve my long-term self-discipline while studying for my university exams?", "What should I pay attention to when making a good presentation that will impress the audience?" ],
-                    cache_examples=True,
-                    retry_btn=None) 
+# def main():
+#     global session_ids 
+#     session_id = []
+#     Path(log_folder).mkdir(parents=True, exist_ok=True)
 
-with gr.Blocks(title="Neo Skills Chatbot", theme=theme, css="chatinterface.css") as demo:
-    # gr.Image("./img/hm_logo.png",elem_id="hm-logo")
-    # gr.Blocks(css="chatinterface.css")
-    gr.HTML(html_content, elem_id ="hm_logo_big")
-    gr.HTML(html_content_outer_logo, elem_id ="hm_logo")
-    # gr.Markdown("New generation learning assistant chatbot developed by Neo Skills", elem_id="markdown") 
-    chat.render()
-    # with gr.Column():
-    #         with gr.Row():
-    #             u = gr.UploadButton("Upload a file", file_count="single")
-    #             d = gr.DownloadButton("Download the file", visible=False)
+#     openai.api_key = os.environ["OPENAI_API_KEY"]
+#     custom_theme = CustomTheme()
 
-    #         u.upload(upload_file, u, [u, d])
-    #         d.click(download_file, None, [u, d])
-   
+#     with gr.Blocks(title="Neo Skills Chatbot", theme=theme, css="chatinterface.css") as demo:
+#         session_ids = gr.State([])
+#         chatbot = gr.Chatbot(height=300, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>")
+#         textbox = gr.Textbox(label='Your Question:')
+#         chat_button = gr.Button("Send")
+        
+#         chat_button.click(
+#             response,
+#             inputs=[textbox, chatbot, session_ids],
+#             outputs=chatbot,
+#         )
+
+#         demo.launch(inbrowser=True, debug=True, share=True)
+
+# if __name__ == "__main__":
+#     main()
 
 
 
 def main():
+    global chatbot
+    global session_ids
+    global textbox
+    Path(log_folder).mkdir(parents=True, exist_ok=True)
+
     openai.api_key = os.environ["OPENAI_API_KEY"]
     custom_theme = CustomTheme(),
 
-    demo.launch(inbrowser=True, debug=True, share=False)
+    # chat = gr.ChatInterface(
+    #                     response,
+    #                     chatbot=gr.Chatbot(height=300, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>"),
+    #                     title="Neo Skills Chatbot",
+    #                     description="Chat with Neo Skills Chatbot to improve your social skills",
+    #                     theme=theme,
+    #                     css="chatinterface.css",
+    #                     examples=[["Hey, send me to the time management submodule!"], ["Which office skills concepts would be nice for me to adopt before starting my first job?"], ["What methods can I use to come up with more effective ideas?"], ["How can I improve my long-term self-discipline while studying for my university exams?"], ["What should I pay attention to when making a good presentation that will impress the audience?"]],
+    #                     cache_examples=True,
+    #                     retry_btn=None) 
+
+    with gr.Blocks(title="Neo Skills Chatbot", theme=theme, css="chatinterface.css") as demo:
+        session_ids = gr.State([])
+        print(session_ids)
+        # gr.HTML(html_content, elem_id ="hm_logo_big")
+        # gr.HTML(html_content_outer_logo, elem_id ="hm_logo")
+        chatbot = gr.Chatbot(height=300, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>")
+        textbox = gr.Textbox(label='Your Question:')
+        # chat.render()   
+        textbox.submit(
+            response,
+            [textbox, chatbot, session_ids],
+            [chatbot, session_ids, textbox],
+            concurrency_limit=50 
+        )
+        chatbot.like(
+            vote,
+            [chatbot, session_ids],
+            None
+        )
+
+    demo.launch(inbrowser=True, debug=True, share=True)
 
 if __name__ == "__main__":
     main()

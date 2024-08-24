@@ -1,0 +1,17 @@
+{
+    "questions": [
+        {
+            "question_id": 0,
+            "question": "best ways to learning a new subject",
+            "answer": "Um effektiv ein neues Thema zu lernen, ist es wichtig, verschiedene Lernstrategien anzuwenden. Eine M\u00f6glichkeit besteht darin, sich mit kognitiven, metakognitiven und ressourcenorientierten Lernstrategien auseinanderzusetzen. Diese Strategien helfen dabei, das Lernen zu optimieren und nachhaltig zu gestalten. Wenn du mehr \u00fcber diese Lernstrategien erfahren m\u00f6chtest, kannst du diesen Link verwenden: https://www.bnw.de/service/blog/karriere/neue-lernmethoden-und-lernstrategien-lernen-lernen-in-der-digitalen-arbeitswelt\n\nWelche Art von Lernstrategie spricht dich am meisten an?",
+            "required_time": "0:00:00.481624"
+        },
+        {
+            "question_id": 0,
+            "question": "time management tools",
+            "answer": "Um deine Zeit effektiv zu managen, kannst du verschiedene digitale Tools nutzen. Eine beliebte Technik ist die Pomodoro-Technik, die dir hilft, deine Zeit in Intervalle aufzuteilen und produktiver zu arbeiten. Du kannst die Pomodoro-Technik entweder mit der App \"Focus To-Do\" f\u00fcr Android, iOS und Desktop anwenden oder offline mit einem Timer oder einer K\u00fcchenuhr. Wenn du mehr \u00fcber die praktische Anwendung der Pomodoro-Technik erfahren m\u00f6chtest, schau dir dieses Kapitel an: https://moodle.hm.edu/pluginfile.php/1446288/mod_label/intro/Pomodoro_Kapitel%20Ablenkungen.pdf\n\nWelche Art von Zeitmanagement-Tool w\u00fcrdest du bevorzugen: eine App-basierte L\u00f6sung oder eine analoge Methode?",
+            "required_time": "0:00:00.721025"
+        }
+    ],
+    "votes": []
+}
