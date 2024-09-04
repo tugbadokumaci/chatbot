@@ -196,7 +196,6 @@ def response(message, history,session_id):
     with open(get_logging_file(session_id), 'w') as fp:
         json.dump(log_data, fp)
 
-    print('success')
     response = history + [(message, output_text)]
     return response, session_id ,''
     # return str(answer)
@@ -217,12 +216,12 @@ def vote(data: gr.LikeData,history, session_id):
 
 
 html_content = """
-<div id="background-div">
+<div id="background-div-top">
 </div>
 """
 
-html_content_outer_logo = """
-<div id="background-div-outer-logo">
+html_content_bottom_logo = """
+<div id="background-div-bottom">
 </div>
 """
 
@@ -252,46 +251,98 @@ html_content_outer_logo = """
 #     main()
 
 
-
 def main():
     global chatbot
     global session_ids
     global textbox
+
     Path(log_folder).mkdir(parents=True, exist_ok=True)
 
     openai.api_key = os.environ["OPENAI_API_KEY"]
-    custom_theme = CustomTheme(),
-
-    # chat = gr.ChatInterface(
-    #                     response,
-    #                     chatbot=gr.Chatbot(height=300, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>"),
-    #                     title="Neo Skills Chatbot",
-    #                     description="Chat with Neo Skills Chatbot to improve your social skills",
-    #                     theme=theme,
-    #                     css="chatinterface.css",
-    #                     examples=[["Hey, send me to the time management submodule!"], ["Which office skills concepts would be nice for me to adopt before starting my first job?"], ["What methods can I use to come up with more effective ideas?"], ["How can I improve my long-term self-discipline while studying for my university exams?"], ["What should I pay attention to when making a good presentation that will impress the audience?"]],
-    #                     cache_examples=True,
-    #                     retry_btn=None) 
+    custom_theme = CustomTheme()
 
     with gr.Blocks(title="Neo Skills Chatbot", theme=theme, css="chatinterface.css") as demo:
         session_ids = gr.State([])
-        print(session_ids)
-        # gr.HTML(html_content, elem_id ="hm_logo_big")
-        # gr.HTML(html_content_outer_logo, elem_id ="hm_logo")
-        chatbot = gr.Chatbot(height=300, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>")
-        textbox = gr.Textbox(label='Your Question:')
-        # chat.render()   
-        textbox.submit(
-            response,
-            [textbox, chatbot, session_ids],
-            [chatbot, session_ids, textbox],
-            concurrency_limit=50 
-        )
-        chatbot.like(
-            vote,
-            [chatbot, session_ids],
-            None
-        )
+
+        
+        with gr.Blocks(title="Neo Skills Chatbot", theme=theme, css="chatinterface.css"):
+
+            with gr.Row():  
+                with gr.Column(scale=5): 
+                    with gr.Blocks(title="Neo Skills Chatbot", theme=theme, css="chatinterface.css"):
+
+                        chatbot = gr.Chatbot( height= 850, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>")
+
+                        textbox = gr.Textbox(placeholder='Your Question:', label = None, show_label=False,)
+
+                        textbox.submit(
+                            response,
+                            [textbox, chatbot, session_ids],
+                            [chatbot, session_ids, textbox],
+                            concurrency_limit=50 
+                        )
+                        # Seperate submit button does the same job as ENTER physical keystroke
+                        submit_button = gr.Button("Submit")
+
+                        submit_button.click(
+                        response,
+                        [textbox, chatbot, session_ids],
+                        [chatbot, session_ids, textbox],
+                        concurrency_limit=50
+                    )
+
+                        
+                        # examples = gr.Examples(
+                        #     examples=["Hey, send me to the time management submodule!","Which office skills concepts would be nice for me to adopt before starting my first job?", "What methods can I use to come up with more effective ideas ?","How can I improve my long-term self-discipline while studying for my university exams?", "What should I pay attention to when making a good presentation that will impress the audience?" ],
+                        #     inputs=textbox,
+                        #     label="Example Questions"
+                        # )
+
+                        chatbot.like(
+                            vote,
+                            [chatbot, session_ids],
+                            None
+                        )
+
+                        #RETRY BUTTON STYLED BUT REMOVED LATER!!!
+                        # retry_button = gr.Button("Retry")
+                        # retry_button.click(
+                        #     response,
+                        #     [textbox, chatbot, session_ids],
+                        #     [chatbot, session_ids, textbox]
+                        # )
+
+                with gr.Column(scale=3): 
+                         gr.HTML("""
+              <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100vh; background-color: #050118; margin: 0; padding: 0; padding-bottom: 50px;">
+    
+                <div style="background-image: url('https://webyazilim.web.tr/HM/img/bg_logo_top.png'); background-size: cover;  width: 300px; height: 149px; margin-right: auto;
+                margin-left: 30px; margin-top:30px; 
+                padding: 0;"></div>
+                <div>
+                    
+                <div style="font-family: 'Helvetica Neue'; background-color: #050118;  margin-left: 30px; margin-right:30px">
+                    <div style="color: #26E3BE; font-size: 44px; font-weight: normal;">
+                        NEO.Skills Chatbot
+                    </div>
+                    <div style="color: white; font-size: 30px; font-weight: normal; margin-top: 20px;">
+                        Mach Dich mit unseren digitalen Selbstlerneinheiten fit, indem Du mit unserem Chatbot effizienter lernst!
+                    </div>
+                    <div style="color: #26E3BE; font-size: 24px; font-weight: 500; margin-top: 40px;">
+                        #chatbot #selbstlerneinheiten #digitaleStudierfähigkeit #Medienkompetenz #neohub #neoskills #hochschulemünchen #meinehm #hmstudylife #futureskills
+                    </div>
+                </div>
+
+                </div>
+                <div style="display: flex; justify-content: flex-start; align-items: center; height: 72px; padding: 0; margin-bottom: 30px; margin-left: 30px">
+                    <img src="https://webyazilim.web.tr/HM/img/bg_logo_bottom1.png" style="height: 100%; width: auto; margin-right: 10px;">
+                    <img src="https://webyazilim.web.tr/HM/img/bg_logo_bottom2.png" style="height: 100%; width: auto;">
+                </div>
+            </div>
+
+                """)
+                         
+                    
 
     demo.launch(inbrowser=True, debug=True, share=True)
 
