@@ -22,16 +22,20 @@ A chatbot application that integrates **Retrieval-Augmented Generation (RAG)** u
 1. Clone the repository:
    ```bash
    git clone <repository_url>
+    ```
+    or download manually as zip
 2. Create and activate the Conda environment:
    ```bash
     conda create --name chatbot python=3.11.9
     conda activate chatbot
 3. Install the required dependencies:
+    Open the zip file
    ```bash
     pip install -r requirements.txt
 4. Set your OpenAI API key:
    ```bash
-    export OPENAI_API_KEY=your_openai_api_key
+    export OPENAI_API_KEY="your_openai_api_key"
+    echo $OPENAI_API_KEY
 ### Usage
 
 - Run the application. 
