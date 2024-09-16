@@ -1,3 +1,5 @@
+🤗 Hugging Face Link: https://huggingface.co/spaces/tugbadokumaci/chatbot
+
 # Chatbot Application with RAG and Gradio UI
 
 ## Overview
@@ -28,8 +30,8 @@ A chatbot application that integrates **Retrieval-Augmented Generation (RAG)** u
    ```bash
     conda create --name chatbot python=3.11.9
     conda activate chatbot
-3. Install the required dependencies:
-    Open the zip file
+3. Install the required dependencies:<br>
+   Open the zip file
    ```bash
     pip install -r requirements.txt
 4. Set your OpenAI API key:
