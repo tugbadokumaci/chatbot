@@ -21,7 +21,7 @@ class RestartHandler(FileSystemEventHandler):
             self.start_script()
 
 if __name__ == "__main__":
-    script_to_watch = "internship.py"  # Update with your script path
+    script_to_watch = "app.py"  # Update with your script path
     event_handler = RestartHandler(script_to_watch)
     observer = Observer()
     observer.schedule(event_handler, path=os.path.dirname(script_to_watch), recursive=False)

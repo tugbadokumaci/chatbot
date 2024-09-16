@@ -1,19 +1,19 @@
+/* SOME COLOR DEFINITIONS */
+
 :root {
     --button-text-color: #262D3D;
     --button-text-color-hover: #ffffff;
     --button-bg-color: #E1E3E7;
     --button-bg-color-hover: black;
-    /* --background-image-url: "./img/hm_logo.png"; */
-    /* --background-image-url: url("https://upload.wikimedia.org/wikipedia/commons/e/e4/HM_Logo_RGB.png"); */
 }
 
+/* NEO SKILLS TOP LOGO */
 
 #bg-logo-top {
     background-image: url('https://webyazilim.web.tr/HM/img/bg_logo_top.png');
 }
 
 #background-div-top {
-    /* background-image: url('https://webyazilim.web.tr/HM/img/bg_logo_top.png'); */
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left;
@@ -23,6 +23,7 @@
 }
 
 
+/* BOTTOM HM & MUC.DAI BOTTOM LOGOS*/
 
 #bg-logo-bottom1 {
     background-image: url('https://webyazilim.web.tr/HM/img/bg_logo_bottom1.png');
@@ -40,66 +41,19 @@
     width: 150px;
 }
 
+/* ? */
 
-
-
-/* .block .svelte-12cmxck .padded .hide-container {
-    background-image: var(--background-image-url);
-    text-align: center;
-    height: 100px;
-    width: 100px;
-    border-color: black;
-}
-
-.image-container {
-    background-image: var(--background-image-url);
-    text-align: center;
-    /* Resmi ortalamak için */
-
-/* } */
-
-#sil {
-    background-image: var(--background-image-url);
-    /* background-color: red; */
-    text-align: center;
-    height: 100px;
-    width: 100px;
-}
-
-*/
-/* #component-15 {
-    color: #000;
-}
-
-#component-15:hover {
-    color: #ffffff;
-} */
-
-/* .gradio-container {
-    background: url(https://mediapool.hm.edu/media/mucdai/keyvisuals_1/mucdai_keyvisual_15_hero_image_m.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-} */
-
-/*konuşma balonlarının hepsinin arka planı*/
-/* .flex-wrap .svelte-x4qvqz {
-    background-color: blue;
-    border: none;
-} */
-
-/* .md .svelte-8tpqd2 .chatbot .prose {
-    background-color: red;
-}
-
-*/
 .md .svelte-8tpqd2 .chatbot .prose {
     font-size: 20px;
 }
 
+/* ? */
+
 .gradio-container {
     margin: 0 !important
 }
+
+/* CHATBOT USER MESSAGE BUBBLE  */
 
 .bubble-wrap .message-wrap .message.user {
     background-color: #26E3BE;
@@ -114,6 +68,8 @@
     border-radius: 10px;
     margin-bottom: 5px;
 }
+
+/* CHATBOT BOT MESSAGE BUBBLE */
 
 .bubble-wrap .message-wrap .message.bot {
     background-color: var(--block-background-color);
@@ -137,10 +93,18 @@
     margin-bottom: 5px;
 }
 
-.md .svelte-8tpqd2 .chatbot .prose p {
-    color: black !important;
+/* .md .svelte-8tpqd2 .chatbot .prose p {
+    color: #050118;
+} */
+
+/* CHATBOT USER MESSAGE BUBBLE TEXT COLOR */
+
+.message.user p {
+    color: #050118;
+
 }
 
+/* ? */
 .bubble-wrap .message {
     background-color: var(--block-background-color);
     color: #333333;
@@ -152,18 +116,11 @@
 
 
 
-
-
 body {
-    /* background-image: url('https://webyazilim.web.tr/HM/img/hm_bg.png') !important; */
-    background-size: contain !important;
-    background-position: center center !important;
-    background-repeat: no-repeat !important;
     /* min-height: 100vh; */
     margin: 0;
     padding: 0;
-    /* background-color: transparent !important; */
-    background-color: '#050118';
+    background-color: #050118;
 }
 
 html,
@@ -175,32 +132,15 @@ body,
     display: flex;
     flex-direction: column;
     justify-content: center;
-    overflow: hidden;
+    /* overflow: hidden; */
     align-items: center;
 }
 
-/* /* .md.svelte-8tpqd2.chatbot.prose {
-    font-size: 18px;
-    color: white;
-    font-weight: bold;
-    background-color: #3498db;
+/* .gradio-container .exercise-item:hover {
+    color: #3498db;
 } */
 
-#markdown {
-    font-size: 16px;
-    color: red;
-}
-
-
-.markdown {
-    font-size: 16px;
-    color: red;
-}
-
-.gradio-container .exercise-item:hover {
-    color: #3498db;
-}
-
+/* SUPPOSE CACHED EXAMPLES CONTAINER BG AND HOVER COLOR */
 .gallery-item {
     background-color: var(--button-bg-color);
     border: none;
@@ -208,13 +148,14 @@ body,
     padding: 5px;
     margin: 5px;
     transition: background-color 0.3s, color 0.3s;
-
 }
 
 .gallery-item:hover {
     background-color: var(--button-bg-color-hover);
     color: var(--button-text-color-hover);
 }
+
+/* ? */
 
 #component-18 {
     background-color: white;
@@ -235,14 +176,16 @@ body,
     border: none;
 }
 
+/* WHOLE SCREEN */
+
 #component-0 {
     display: flex;
     justify-content: center;
     align-items: center;
-
     margin: auto;
 }
 
+/* LEFT AND RIGHT COLUMNS OF THE SCREEN */
 #component-3 {
     display: flex;
     justify-content: center;
@@ -260,6 +203,8 @@ body,
 } 
 */
 
+/* LEFT COLUMN */
+
 #component-4 {
     margin-top: auto;
     width: 100%;
@@ -268,10 +213,13 @@ body,
     padding-bottom: 50px;
 }
 
+/* RIGHT COLUMN */
+
 #component-10 {
     width: 100%;
 }
 
+/* CHATBOT TEXTBOX AREA */
 #component-7 {
     padding: 0%;
     background-color: white;
@@ -286,10 +234,14 @@ body,
 
 } */
 
+/* ? */
+
 .gradio-container .gradio-container-4-37-2 .svelte-182fdeq .app {
     min-height: initial;
     flex-grow: 1;
 }
+
+/* NOT TO DISPLAY GRADIO LOGO AT THE BOTTOM */
 
 footer {
     display: none !important

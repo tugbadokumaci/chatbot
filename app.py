@@ -225,31 +225,6 @@ html_content_bottom_logo = """
 </div>
 """
 
-# def main():
-#     global session_ids 
-#     session_id = []
-#     Path(log_folder).mkdir(parents=True, exist_ok=True)
-
-#     openai.api_key = os.environ["OPENAI_API_KEY"]
-#     custom_theme = CustomTheme()
-
-#     with gr.Blocks(title="Neo Skills Chatbot", theme=theme, css="chatinterface.css") as demo:
-#         session_ids = gr.State([])
-#         chatbot = gr.Chatbot(height=300, label=None, show_label=False, placeholder="<strong>Do you have a question or need help? How can I help you?</strong>")
-#         textbox = gr.Textbox(label='Your Question:')
-#         chat_button = gr.Button("Send")
-        
-#         chat_button.click(
-#             response,
-#             inputs=[textbox, chatbot, session_ids],
-#             outputs=chatbot,
-#         )
-
-#         demo.launch(inbrowser=True, debug=True, share=True)
-
-# if __name__ == "__main__":
-#     main()
-
 
 def main():
     global chatbot
@@ -343,6 +318,7 @@ def main():
                 """)
                          
                     
+    
 
     demo.launch(inbrowser=True, debug=True, share=True)
 

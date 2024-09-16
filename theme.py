@@ -14,18 +14,18 @@ class CustomTheme(Soft):
         red = "#FC5555"
 
         primary = white
-        secondary = "#e6e6e6"
-        panel_color = red
-        accent = purple
-        accent_soft = "#49637a28"
+        # secondary = "#e6e6e6"
+        # panel_color = red
+        # accent = purple
+        # accent_soft = "#49637a28"
         
         primary_dark = "#121212"
-        secondary_dark = "#242424"
-        panel_color_dark = red
-        accent_dark = purple
+        # secondary_dark = "#242424"
+        # panel_color_dark = red
+        # accent_dark = purple
         accent_soft_dark = "#101727"
-        text_color_dark = white
-        example_text_color="#9F9F9F"
+        # text_color_dark = white
+        # example_text_color="#9F9F9F"
         primary_button_background_dark= "#F0F1F4"
         primary_button_background_hover_dark= "#000000"
         light_grey_bg = "#F2F2F2"
